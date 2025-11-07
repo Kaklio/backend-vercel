@@ -59,7 +59,7 @@ export async function POST(req : Request) {
 console.log("Extracted Markdown:", markdown);
 
     return NextResponse.json({ content: markdown });
-  } catch (err) {
+  } catch (err : any) {
     console.error(err);
     return NextResponse.json({ error: err.message }, { status: 500 });
   }
