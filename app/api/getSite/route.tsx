@@ -58,7 +58,9 @@ export async function POST(req : Request) {
 
 console.log("Extracted Markdown:", markdown);
 
-    return NextResponse.json({ content: markdown });
+    return new NextResponse(markdown, {
+  headers: { 'Content-Type': 'text/plain' },
+});
   } catch (err : any) {
     console.error(err);
     return NextResponse.json({ error: err.message }, { status: 500 });

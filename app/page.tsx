@@ -18,12 +18,12 @@ export default function Home() {
       // const res = await fetch("/api/ask", {
       const res = await fetch("/api/getSite", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: { "Content-Type": "text/plain" },
         body: JSON.stringify({ url }),           // <— send query
       });
 
-      const data = await res.json();
-      setResult(data.content  || "No response");
+      const data = await res.text();
+      setResult(data || "No response");
     } catch (err) {
       setResult("Error fetching response");
     } finally {
