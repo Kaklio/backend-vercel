@@ -1,13 +1,16 @@
 import { NextResponse } from "next/server";
 
-export async function POST(request: Request) {
+export async function GET(request: Request) {
   try {
-    const { url } = await request.json();
+    const { searchParams } = new URL(request.url);
+    const url = searchParams.get("url");
 
     if (!url) {
-      return NextResponse.json({ error: "Missing 'url' in request body." }, { status: 400 });
+      return NextResponse.json(
+        { error: "Missing 'url' in query parameters." },
+        { status: 400 }
+      );
     }
-
     // Step 1: Get markdown from the getSite API
     const markdownResponse = await fetch(`${process.env.NEXTAUTH_URL || 'http://localhost:3000'}/api/getSite`, {
       method: "POST",

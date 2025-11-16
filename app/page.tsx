@@ -8,28 +8,26 @@ export default function Home() {
   const [result, setResult] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
 
-  const handleClick = async () => {
-    if (!url.trim()) return;
+ const handleClick = async () => {
+  if (!url.trim()) return;
 
-    setLoading(true);
-    setResult(null);
+  setLoading(true);
+  setResult(null);
 
-    try {
-      const res = await fetch("/api/summarizeSite", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ url }),
-      });
+  try {
+    const res = await fetch(`/api/summarizeSite?url=${encodeURIComponent(url)}`, {
+      method: "GET",
+    });
 
-      const data = await res.text();
-      setResult(data || "No response");
-      downloadMarkdown();
-    } catch (err) {
-      setResult("Error fetching response");
-    } finally {
-      setLoading(false);
-    }
-  };
+    const data = await res.text();
+    setResult(data || "No response");
+    downloadMarkdown();
+  } catch (err) {
+    setResult("Error fetching response");
+  } finally {
+    setLoading(false);
+  }
+};
 
   const downloadMarkdown = () => {
     if (!result) 
