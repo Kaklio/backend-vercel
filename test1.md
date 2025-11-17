@@ -1,96 +1,100 @@
-## Igniting Pakistan’s Digital Future: Government Unveils Digital Sector Roadmap & Celebrates AI Innovation  
+# Narcisstoic  
 
-**Source:** Press Release – *ProPakistani*  
-**Author:** [Press Release](https://propakistani.pk/author/press/)  
-**Published:** 13 Nov 2025 · 3:36 pm  
+**Narcisstoic** (ナルシストイック, *Narushisutoikku*) is the **A‑Class Rank 29** professional hero for the **Hero Association** in *One‑Punch Man*.
+
+---
+
+## 1. Appearance  
+
+- Young man with light‑colored hair and an unusually long chin.  
+- Outfit: frilly white shirt and black pants.  
+- Constantly carries a rose in his mouth.  
+
+[Edit section](https://onepunchman.fandom.com/wiki/Narcisstoic?veaction=edit&section=1)
+
+---
+
+## 2. Personality  
+
+- Very **showy, arrogant, and flamboyant**, matching his name.  
+- Holds deep admiration for **Sweet Mask**; during the Monster Association raid, he asked Sweet Mask to watch his fighting style.  
+
+[Edit section](https://onepunchman.fandom.com/wiki/Narcisstoic?veaction=edit&section=2)
+
+---
+
+## 3. Plot  
+
+### 3.1 Human Monster Saga  
+
+#### 3.1.1 Super Fight Arc  
+
+- Appears in **I‑City** to assist other A‑Class heroes against **Hundred‑Eyes Octopus**.  
+- Source: *One‑Punch Man* Manga, Chapter 68, pp. 9‑11【1】.  
+
+#### 3.1.2 Monster Association Arc  
+
+- Recruited to the **Monster Association** raid support team.  
+- While fighting monsters, he requests Sweet Mask’s attention to his “beautiful fighting style.”  
+- Defends himself from a monster with rapid punches, then kills another monster with a knee strike to the stomach.  
+- Sweet Mask compliments his “potential,” actually referring to **Feather**, who fought behind Narcisstoic.【3】  
+- Joins the attack on **Rhino Wrestler**, using his **Rose American Sack**, but is easily knocked back along with other heroes; Rhino Wrestler rates Narcisstoic’s attack 18/100【4】.  
+- The support team later escorts **Waganma** to safety; **Nyan** appears and incapacitates several heroes, including Narcisstoic.  
+
+Sources:  
+- *One‑Punch Man* Manga, Chapter 95, pp. 35【2】  
+- *One‑Punch Man* Manga, Chapter 96, pp. 53‑59【3】, pp. 112‑113【4】
+
+[Edit section](https://onepunchman.fandom.com/wiki/Narcisstoic?veaction=edit&section=4)
+
+---
+
+## 4. Abilities and Powers  
+
+As an **A‑Class** hero, Narcisstoic is a skilled, powerful fighter capable of both bare‑handed combat and improvised weapons. He can eliminate three monsters in rapid succession and performed a high‑stakes support role in a rescue mission. His body shows no visible scars after crushing monster fangs and skeletons. However, against Demon‑level monsters (e.g., Rhino Wrestler) he is relatively ineffective.  
+
+### 4.1 Physical Abilities  
+
+- **Enhanced Strength** – Superhuman strength enables him to beat monsters with bare fists and wield heavy objects (cinder‑blocks, street signs).  
+- **Enhanced Speed** – High agility; during his signature move **Soft Touch Execution**, he throws a rose into the air, defeats several mysterious beings, and catches the rose by mouth before it lands.  
+
+### 4.2 Fighting Style  
+
+- **Hand‑to‑Hand Combatant** with an “elegant” style.  
+- **Soft Touch Execution** (ソフトタッチエクスキューション, *Sofutotacchiekusukyūshon*): A barrage of punches, knee strikes, and improvised weapons; demonstrated by eliminating three monsters and catching a tossed rose mid‑air【5】.  
+- **Rose American Sack** (ローズメリケンサーック, *Rōzumerikensākku*; Viz: *Rose Brass Knuckles*): Uses brass knuckles in combat【6】.  
+
+[Edit sections](https://onepunchman.fandom.com/wiki/Narcisstoic?veaction=edit&section=7)  
+
+---
+
+## 5. Trivia  
+
+- The name **Narcisstoic** is a portmanteau of **“Narcissist”** (ナルシスト) and **“Stoic”** (ストイック).  
+
+[Edit section](https://onepunchman.fandom.com/wiki/Narcisstoic?veaction=edit&section=10)
+
+---
+
+## 6. References  
+
+1. _One‑Punch Man_ Manga; **Chapter 68**, pp. 9‑11.  
+2. _One‑Punch Man_ Manga; **Chapter 95**, pp. 35.  
+3. _One‑Punch Man_ Manga; **Chapter 96**, pp. 53‑59.  
+4. _One‑Punch Man_ Manga; **Chapter 96**, pp. 112‑113.  
+5. _One‑Punch Man_ Manga; **Chapter 94**, p. 57.  
+6. _One‑Punch Man_ Manga; **Chapter 96**, p. 112.  
+
+[Edit section](https://onepunchman.fandom.com/wiki/Narcisstoic?veaction=edit&section=11)
+
+---
+
+## 7. Language Links  
+
+- [Español](https://onepunchman.fandom.com/es/wiki/Narcisstoic)  
+- [Français](https://onepunchman.fandom.com/fr/wiki/Narcissik)  
+- [Русский](https://onepunchman.fandom.com/ru/wiki/%D0%A1%D1%82%D0%BE%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%9D%D0%B0%D1%80%D1%86%D0%B8%D1%81%D1%81)  
 
 ---  
 
-### 1. Executive Summary  
-
-- The Ministry of IT & Telecom (MoITT) together with **Ignite – National Technology Fund** and the **Asian Development Bank (ADB)** launched the **Pakistan Digital Sector Roadmap** – a 10‑year blueprint (2025‑2035) for a digitally empowered, inclusive nation.  
-- The launch coincided with the **AI Wrapper Competition 2025**, the first large‑scale contest translating the **National AI Policy 2025** into concrete AI solutions.  
-- A two‑day **National Workshop on AI Use‑Case Development** brought together government, academia and private‑sector experts to co‑design AI applications for health, education, agriculture, finance and governance.  
-- Outcomes from the workshop will shape the creation of the **National AI Innovation Hub (NAIIH)** – a national ecosystem for applied AI research, commercialization, entrepreneurship and capacity‑building.  
-
----  
-
-### 2. Digital Sector Roadmap  
-
-| Element | Details |
-|---------|---------|
-| **Vision Horizon** | **2035** – a digitally empowered, connected and inclusive Pakistan. |
-| **Timeframe** | 10‑year plan (2025‑2035). |
-| **Four Pillars** | 1. **Digital Infrastructure**  <br>2. **Digital Economy**  <br>3. **Digital Governance**  <br>4. **Digital Society** |
-| **Policy Alignment** | *Uraan Pakistan 2024‑2029* and the **Digital Nation Pakistan Act 2025**. |
-| **Key Quote** | *“Under the vision of Prime Minister of Pakistan, this roadmap is a strategic step for a connected, competitive, and future‑ready Pakistan. It aligns with vision for a Digital Nation Pakistan, where technology drives inclusive growth, transparency, and innovation across every sector.”* – **Shaza Fatima Khawaja**, Federal Minister for IT & Telecom. |
-
----  
-
-### 3. AI Wrapper Competition 2025  
-
-| Metric | Figure |
-|--------|--------|
-| **Participating Teams** | **1,700+** teams. |
-| **Geographic Reach** | Teams from **106 cities** across Pakistan. |
-| **Gender Representation** | **33 % female** participation. |
-| **Thematic Areas** | • **EdTech**  <br>• **HealthTech**  <br>• **Climate/AgriTech**  <br>• **GovTech**  <br>• **FinTech** |
-| **Total Prize Money** | **PKR 8.7 million** awarded to winning teams for AI‑driven solutions to national challenges. |
-| **Ministerial Comment** | *“AI Wrapper Competition 2025 reflects the spirit of the National AI Policy 2025, empowering youth and entrepreneurs to use AI responsibly and creatively for Pakistan’s development.”* – **Shaza Fatima Khawaja**, Federal Minister for IT & Telecom. |
-| **Ignite CEO Comment** | *“Through initiatives like the AI Wrapper Competition and the National AI Innovation Hub, we aim to build an ecosystem that turns policy into impact, enabling startups, researchers, and government to collaborate on real‑world AI applications.”* – **Rafique A. Buriro**, CEO, Ignite. |
-
----  
-
-### 4. National AI Innovation Hub (NAIIH)  
-
-- **Purpose:** Serve as a national “ecosystem for applied AI research, commercialization, entrepreneurship and digital capacity building.”  
-- **Development:** Findings from the AI Use‑Case Workshop will directly inform the Hub’s design and operational model.  
-
----  
-
-### 5. Asian Development Bank (ADB) Involvement  
-
-- **Representative:** *Dr. Antonio García Zaballos*, Director, Digital Sector Office, ADB.  
-- **Statement:** *“Pakistan’s Digital Sector Roadmap provides a clear pathway for inclusive, resilient, and innovation‑led growth. ADB is proud to support Pakistan in strengthening digital Infrastructure, Digital Economy, digital governance, and digital Society.”*  
-
----  
-
-### 6. Forward‑Looking Commitments  
-
-- **Implementation** of the **National AI Policy 2025**.  
-- **Establishment** of the **National AI Innovation Hub (NAIIH)**.  
-- **Strengthening** public‑private‑academic partnerships to accelerate Pakistan’s transition to a **knowledge‑based, innovation‑led economy**.  
-
----  
-
-### 7. Additional Resources  
-
-- **Join ProPakistani’s Tech & Telecom WhatsApp Group** for the latest news, videos and analysis: <https://chat.whatsapp.com/Dbt1VVnHvcy9sxNev9GShd>  
-- **Follow ProPakistani on Google News** for faster content access: <https://news.google.com/publications/CAAqBwgKMJPrwwswtobbAw?ceid=PK:en&oc=3>  
-- **Press Release author page:** <https://propakistani.pk/author/press/>  
-
----  
-
-### 8. Related Articles (Latest News)  
-
-| Title | Link |
-|-------|------|
-| **WASA Lahore Retains International Accreditation for Water Testing Lab** | <https://propakistani.pk/2025/11/13/wasa-lahore-retains-international-accreditation-for-water-testing-lab/> |
-| **Azgard Nine Clears Over Rs. 713 Million in Dues After Muzaffargarh Asset Sale** | <https://propakistani.pk/2025/11/13/azgard-nine-clears-over-rs-713-million-in-dues-after-muzaffargarh-assets-sale/> |
-| **Karachi's Famous Monument is Getting a Major Makeover** | <https://propakistani.pk/2025/11/13/karachis-famous-monument-is-getting-a-major-makeover/> |
-| **How Field Marshal Asim Munir Convinced Sri Lankan Team to Stay in Pakistan** | <https://propakistani.pk/2025/11/13/heres-how-field-marshal-asim-munir-convinced-sri-lankan-team-to-stay-in-pakistan/> |
-| **Sindh Launches Online App to Guide Couples on Family Planning** | <https://propakistani.pk/2025/11/13/sindh-launches-online-app-to-guide-couples-on-family-planning/> |
-
----  
-
-### 9. Trending Stories (as of 13 Nov 2025)  
-
-- **Pakistan's Internet Firewall is Getting a Major Upgrade** – <https://propakistani.pk/2025/11/10/pakistans-internet-firewall-is-getting-a-major-upgrade/>  
-- **Punjab to Introduce New Mandatory Rule for Motorcyclists** – <https://propakistani.pk/2025/11/07/punjab-to-introduce-new-mandatory-rule-for-motorcyclists/>  
-- **Punjab Announces Emission Testing Fee** – <https://propakistani.pk/2025/11/09/punjab-announces-emission-testing-fee/>  
-- **27th Constitution Amendment Proposes Lifetime Office for Field Marshal** – <https://propakistani.pk/2025/11/08/27th-constitution-amendment-proposes-lifetime-office-for-field-marshal/>  
-- **Seatbelt T‑Shirt Goes Viral After Introduction of E‑Challan in Major Cities** – <https://propakistani.pk/2025/11/08/seatbelt-t-shirt-goes-viral-after-introduction-of-e-challan-in-major-cities/>  
-
----  
-
-*All factual information, figures, quotations and URLs are retained exactly as presented in the original press release.*
+*Community content is available under [CC‑BY‑SA](https://www.fandom.com/licensing) unless otherwise noted.*  

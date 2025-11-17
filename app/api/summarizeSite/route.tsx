@@ -24,6 +24,7 @@ export async function GET(request: Request) {
 
     const markdown = await markdownResponse.text();
 
+
     // Step 2: Prepare the prompt for the LLM
     const prompt = `Please analyze and summarize the following webpage content. Your goal is to create a well-structured, context-aware summary that retains all important information, citations and links, while organizing it in a format that would be useful for another LLM to process later.
 
