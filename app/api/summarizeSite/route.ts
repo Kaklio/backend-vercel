@@ -28,7 +28,7 @@ export async function GET(request: Request) {
     // MAGIC Number is 5000 if length is lesser than call the dynamic route
     if(markdown.length < 5000)
     {
-      const markdownResponse2 = await fetch(`${process.env.NEXTAUTH_URL || 'http://localhost:3000'}/api/getSite`, {
+      const markdownResponse2 = await fetch(`${process.env.NEXTAUTH_URL || 'http://localhost:3000'}/api/getSite_D`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ url }),
