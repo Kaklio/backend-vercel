@@ -1,8 +1,0 @@
-{
-  "functions": {
-    "api/getSite_D/route.tsx": {
-      "memory": 1024,
-      "maxDuration": 30
-    }
-  }
-}
