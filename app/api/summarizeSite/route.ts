@@ -22,8 +22,25 @@ export async function GET(request: Request) {
       throw new Error(`Failed to get markdown: ${markdownResponse.status}`);
     }
 
-    const markdown = await markdownResponse.text();
+    
+    let markdown = await markdownResponse.text();
+    
+    // MAGIC Number is 5000 if length is lesser than call the dynamic route
+    if(markdown.length < 5000)
+    {
+      const markdownResponse2 = await fetch(`${process.env.NEXTAUTH_URL || 'http://localhost:3000'}/api/getSite`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ url }),
+    });
+      
+    if (!markdownResponse2.ok) {
+      throw new Error(`Failed to get markdown: ${markdownResponse2.status}`);
+    }
 
+    markdown = await markdownResponse2.text();
+
+    }
 
     // Step 2: Prepare the prompt for the LLM
     const prompt = `Please analyze and summarize the following webpage content. Your goal is to create a well-structured, context-aware summary that retains all important information, citations and links, while organizing it in a format that would be useful for another LLM to process later.
@@ -37,7 +54,9 @@ IMPORTANT INSTRUCTIONS:
 - Maintain the original meaning and context of all information
 - Focus on creating a comprehensive yet organized format that another LLM can easily parse
 
-Webpage content markdown format:
+
+Webpage content in markdown format:
+[IMPORTANT CAVEAT: IF the following content lacks any substantial information then respond with: "Unable To Read Site"]
 ${markdown}
 
 Provide the summarized and organized content in proper markdown as per above instrucions:`;

@@ -56,9 +56,12 @@ export async function POST(req : Request) {
 
     const markdown = turndownService.turndown(clean);
 
-console.log("Extracted Markdown:", markdown);
+console.log("Markdown length:", markdown.length);
+// console.log("Extracted Markdown:", markdown);
 
-    return new NextResponse(markdown, {
+let length: string = "Markdown Length: " + markdown.length.toString();
+
+    return new NextResponse(length, {
   headers: { 'Content-Type': 'text/plain' },
 });
   } catch (err : any) {

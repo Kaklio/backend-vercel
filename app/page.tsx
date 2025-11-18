@@ -15,15 +15,15 @@ export default function Home() {
   setResult(null);
 
   try { 
-    const res = await fetch(`/api/summarizeSite?url=${encodeURIComponent(url)}`, {
-      method: "GET",
-    });
-   
-    //  const res = await fetch(`/api/getSite_D`, {
-    //   method: "POST",
-    //   headers: { "Content-Type": "application/json" },
-    //   body: JSON.stringify({ url }),
+    // const res = await fetch(`/api/summarizeSite?url=${encodeURIComponent(url)}`, {
+    //   method: "GET",
     // });
+   
+     const res = await fetch(`/api/getSite`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ url }),
+    });
 
     const data = await res.text();
     setResult(data || "No response");
@@ -99,9 +99,9 @@ console.log("Raw result:", result);
         <div className="mt-6 text-lg text-gray-800 dark:text-gray-200">
           {result && (
             <p>
-            <ReactMarkdown>
+            {/* <ReactMarkdown> */}
               {result}
-            </ReactMarkdown>
+            {/* </ReactMarkdown> */}
             </p>
           )}
         </div>

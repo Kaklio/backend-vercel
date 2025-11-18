@@ -128,6 +128,7 @@ export async function POST(req: Request) {
 
     console.log("Successfully extracted content from:", url);
     console.log("Markdown length:", markdown.length);
+    console.log("Extracted Markdown:", markdown);
 
     return new NextResponse(markdown, {
       headers: { 
