@@ -2,7 +2,7 @@
 import { NextResponse } from "next/server";
 import * as cheerio from "cheerio";
 import TurndownService from "turndown";
-import puppeteerCore from 'puppeteer-core';
+import puppeteer from 'puppeteer-core';
 import chromium from "@sparticuz/chromium-min";
 
 // Helper to extract main readable text
@@ -48,9 +48,11 @@ export async function POST(req: Request) {
     //   ]
     // });
 
-  const executablePath = await chromium.executablePath(process.env.CHROMIUM_REMOTE_EXEC_PATH);
- browser = await puppeteerCore.launch({ args: chromium.args, executablePath, headless: true });
-
+   browser = await puppeteer.launch({
+  args: chromium.args,
+  executablePath: await chromium.executablePath(),  // points to the downloaded Chromium
+  headless: true,
+});
 
     const page = await browser.newPage();
     
