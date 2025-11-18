@@ -14,9 +14,15 @@ export default function Home() {
   setLoading(true);
   setResult(null);
 
-  try {
-    const res = await fetch(`/api/summarizeSite?url=${encodeURIComponent(url)}`, {
-      method: "GET",
+  try { 
+    // const res = await fetch(`/api/summarizeSite?url=${encodeURIComponent(url)}`, {
+    //   method: "GET",
+    // });
+   
+     const res = await fetch(`/api/getSite_D`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ url }),
     });
 
     const data = await res.text();
