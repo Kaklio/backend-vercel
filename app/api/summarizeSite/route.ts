@@ -1,6 +1,8 @@
 import { NextResponse } from "next/server";
+import Markdown from "react-markdown";
 
 export async function GET(request: Request) {
+  console.log("Summarize Site CALLED")
   try {
     const { searchParams } = new URL(request.url);
     const url = searchParams.get("url");
@@ -28,6 +30,8 @@ export async function GET(request: Request) {
     // MAGIC Number is 5000 if length is lesser than call the dynamic route
     if(markdown.length < 5000)
     {
+      console.log("Markdown Length: ", markdown.length, " < 5000")
+      console.log("Calling getSite_D...")
       const markdownResponse2 = await fetch(`${process.env.NEXTAUTH_URL || 'http://localhost:3000'}/api/getSite_D`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -56,7 +60,7 @@ IMPORTANT INSTRUCTIONS:
 
 
 Webpage content in markdown format:
-[IMPORTANT CAVEAT: IF the following content lacks any substantial information then respond with: "Unable To Read Site"]
+[IMPORTANT CAVEAT: IF the following content is missing or lacks any substantial information then respond with: "Unable To Read Site"]
 ${markdown}
 
 Provide the summarized and organized content in proper markdown as per above instrucions:`;

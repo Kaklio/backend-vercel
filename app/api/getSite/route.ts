@@ -61,7 +61,7 @@ console.log("Markdown length:", markdown.length);
 
 let length: string = "Markdown Length: " + markdown.length.toString();
 
-    return new NextResponse(length, {
+    return new NextResponse(markdown, {
   headers: { 'Content-Type': 'text/plain' },
 });
   } catch (err : any) {

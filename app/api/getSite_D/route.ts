@@ -4,6 +4,7 @@ import * as cheerio from "cheerio";
 import TurndownService from "turndown";
 import puppeteerCore from 'puppeteer-core';
 import chromium from "@sparticuz/chromium-min";
+import puppeteer from 'puppeteer';
 
 // Helper to extract main readable text
 function extractMainContent(html: string) {
@@ -48,8 +49,28 @@ export async function POST(req: Request) {
     //   ]
     // });
 
-    const executablePath = await chromium.executablePath(process.env.CHROMIUM_REMOTE_EXEC_PATH);
-     browser = await puppeteerCore.launch({ args: chromium.args, executablePath, headless: true });
+if(process.env.ENVIRONMENT == "dev")
+{
+  console.log("[Dev ENVIRONMENT]")
+  try {
+    // Use Puppeteer to render JavaScript
+    browser = await puppeteer.launch({
+      headless: true,
+      args: ['--no-sandbox', '--disable-setuid-sandbox']
+    });
+    
+  } catch (error) {
+    console.error('Error:', error);
+    return NextResponse.json({ error: "Failed to fetch content" }, { status: 500 });
+  }
+  
+  }
+  else
+{
+  console.log("[Production ENVIRONMENT]")
+  const executablePath = await chromium.executablePath(process.env.CHROMIUM_REMOTE_EXEC_PATH);
+   browser = await puppeteerCore.launch({ args: chromium.args, executablePath, headless: true });
+}
 
  
     const page = await browser.newPage();
