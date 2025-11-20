@@ -26,6 +26,7 @@ function extractMainContent(html: string) {
 
 export async function POST(req: Request) {
   let browser;
+  console.log("getite_D CALLED")
   
   try {
     const { url } = await req.json();

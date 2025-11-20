@@ -2,6 +2,8 @@ import { NextResponse } from "next/server";
 import { InferenceClient } from "@huggingface/inference";
 
 export async function POST(request: Request) {
+  
+  console.log("ask CALLED")
   try {
     const { query } = await request.json(); // <— read from request body
 

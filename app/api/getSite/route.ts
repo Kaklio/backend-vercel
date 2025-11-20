@@ -22,6 +22,8 @@ function extractMainContent(html: string) {
 
 export async function POST(req : Request) {
   try {
+  console.log("getite CALLED")
+
     const { url } = await req.json();
     if (!url) {
       return NextResponse.json({ error: "Missing 'url' in request body." }, { status: 400 });
