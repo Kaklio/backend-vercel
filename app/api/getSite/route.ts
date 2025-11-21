@@ -21,6 +21,7 @@ function extractMainContent(html: string) {
 }
 
 export async function POST(req : Request) {
+  let error_code: number = 200;
   try {
   console.log("getite CALLED")
 
@@ -32,6 +33,7 @@ export async function POST(req : Request) {
     // Fetch the HTML
     const response = await fetch(url);
     if (!response.ok) {
+      error_code = response.status;
       throw new Error(`Failed to fetch URL: ${response.status}`);
     }
 
@@ -68,6 +70,6 @@ let length: string = "Markdown Length: " + markdown.length.toString();
 });
   } catch (err : any) {
     console.error(err);
-    return NextResponse.json({ error: err.message }, { status: 500 });
+    return NextResponse.json({ error: err.message }, { status: error_code });
   }
 }

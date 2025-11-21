@@ -25,9 +25,11 @@ export async function GET(request: Request) {
 
 
     if (!markdownResponse.ok) {
+      console.log("markdownResponse.status:", markdownResponse.status)
       if(markdownResponse.status == 403) {
           console.log("GOT 403 ERROR!!")
           console.log("Site has bot protection :(")
+          markdown = " "; // Trigger getSite_D call
       }
       else {
           throw new Error(`Failed to get markdown: ${markdownResponse.status}`);
