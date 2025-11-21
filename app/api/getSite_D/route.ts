@@ -1,173 +1,131 @@
-// app/api/getSite/route.tsx
+// route.ts
 import { NextResponse } from "next/server";
-import * as cheerio from "cheerio";
-import TurndownService from "turndown";
-import puppeteerCore from 'puppeteer-core';
+import puppeteerCore from "puppeteer-core";
 import chromium from "@sparticuz/chromium-min";
-import puppeteer from 'puppeteer';
+import StealthPlugin from "puppeteer-extra-plugin-stealth";
+import puppeteer from "puppeteer-extra"; // for local dev only; optional
+import TurndownService from "turndown";
+import * as cheerio from "cheerio";
 
-// Helper to extract main readable text
-function extractMainContent(html: string) {
-  const $ = cheerio.load(html);
+  puppeteer.use(StealthPlugin())
 
-  // Try to grab meaningful parts of the page first
-  let main =
-    $("main").html() ||
-    $("article").html() ||
-    $("div[id*='content']").html() ||
-    $("div[class*='content']").html() ||
-    $("body").html();
+const DEFAULT_USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) ' +
+  'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
 
-  // If nothing matched, just return entire body
-  if (!main) main = $("body").html();
-
-  return main;
-}
+export const runtime = "nodejs";
 
 export async function POST(req: Request) {
-  let browser;
   console.log("getite_D CALLED")
-  
+  let browser: any;
   try {
     const { url } = await req.json();
-    if (!url) {
-      return NextResponse.json({ error: "Missing 'url' in request body." }, { status: 400 });
+    if (!url) return NextResponse.json({ error: "Missing 'url'." }, { status: 400 });
+
+    const isDev = process.env.ENVIRONMENT == "dev";
+
+    console.log("isDev:", isDev)
+
+    if (isDev) {
+      // local dev - full puppeteer works fine
+      browser = await puppeteer.launch({
+        headless: true,
+        args: ['--no-sandbox', '--disable-setuid-sandbox']
+      });
+
+      // wrap the puppeteer browser for stealth plugin usage
+      // Note: if using puppeteer (not puppeteer-core), use puppeteerExtra.launch with the puppeteer executable
+      // If puppeteerExtra doesn't accept puppeteer here, you can use page-level stealth (works with puppeteer-core too)
+    } else {
+      // production - use puppeteer-core + sparticuz chromium
+      const chromiumRemote = process.env.CHROMIUM_REMOTE_EXEC_PATH
+        || "https://github.com/Sparticuz/chromium/releases/download/v141.0.0/chromium-v141.0.0-pack.x64.tar";
+
+      const executablePath = await chromium.executablePath(chromiumRemote);
+
+      // Launch the browser with attacks mitigation flags removed and with common flags added
+      browser = await puppeteerCore.launch({
+        args: [
+          ...chromium.args,
+          '--no-sandbox',
+          '--disable-setuid-sandbox',
+          '--disable-dev-shm-usage',
+          '--single-process',
+          '--disable-accelerated-2d-canvas',
+          // Important: do NOT include automation flags you don't want to reveal
+        ],
+        executablePath,
+        headless: true,
+      });
     }
 
-    console.log("Fetching URL:", url);
-
-    // Launch Puppeteer with optimized settings
-    // browser = await puppeteer.launch({
-    //   headless: true,
-    //   args: [
-    //     '--no-sandbox',
-    //     '--disable-setuid-sandbox',
-    //     '--disable-dev-shm-usage',
-    //     '--disable-accelerated-2d-canvas',
-    //     '--no-first-run',
-    //     '--no-zygote',
-    //     '--disable-gpu'
-    //   ]
-    // });
-
-if(process.env.ENVIRONMENT == "dev")
-{
-  console.log("[Dev ENVIRONMENT]")
-  try {
-    // Use Puppeteer to render JavaScript
-    browser = await puppeteer.launch({
-      headless: true,
-      args: ['--no-sandbox', '--disable-setuid-sandbox']
-    });
-    
-  } catch (error) {
-    console.error('Error:', error);
-    return NextResponse.json({ error: "Failed to fetch content" }, { status: 500 });
-  }
-  
-  }
-  else
-{
-  console.log("[Production ENVIRONMENT]")
-  const executablePath = await chromium.executablePath(process.env.CHROMIUM_REMOTE_EXEC_PATH);
-   browser = await puppeteerCore.launch({ args: chromium.args, executablePath, headless: true });
-}
-
- 
+    // const context = await browser.createIncognitoBrowserContext();
     const page = await browser.newPage();
-    
-    // Set user agent using the correct method
-    // await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
-    
-    // Set viewport to desktop size
-    await page.setViewport({ width: 1280, height: 720 });
 
-    // Navigate to the page and wait for network to be idle
-    await page.goto(url, { 
-      waitUntil: 'networkidle2', 
-      timeout: 60000 
+    // common anti-detection headers
+    await page.setUserAgent(DEFAULT_USER_AGENT);
+    await page.setViewport({ width: 1280, height: 800 });
+    await page.setExtraHTTPHeaders({
+      'accept-language': 'en-US,en;q=0.9',
+      'referer': 'https://www.google.com/',
     });
 
-    // Wait for potential content to load - try multiple common content selectors
-    const contentSelectors = [
-      'article',
-      'main',
-      '[class*="content"]',
-      '[class*="post"]',
-      '[class*="article"]',
-      '.content',
-      '#content',
-      '.post-content',
-      '.article-content'
-    ];
-
-    // Try to wait for any content element to appear
+    // Optionally set a site-specific cookie or prior visit to homepage to get cookies first
+    // Example: visit homepage first to get cookies
     try {
-      await page.waitForFunction(
-        (selectors: string[]) => {
-          return selectors.some(selector => {
-            const element = document.querySelector(selector);
-            return element && element.textContent && element.textContent.trim().length > 0;
-          });
-        },
-        { timeout: 10000 },
-        contentSelectors
-      );
-    } catch (waitError) {
-      console.log("No specific content selectors found, continuing with full page...");
-      // Continue anyway - some sites might not use standard selectors
+      const homepage = (new URL(url)).origin;
+      await page.goto(homepage, { waitUntil: 'networkidle2', timeout: 30000 });
+      // small delay so challenge can be solved and cookies set
+      await page.waitForTimeout(2000);
+    } catch (err) {
+      // ignore homepage fail — we'll attempt article directly
     }
 
-    // Additional wait to ensure dynamic content loads - use setTimeout instead of waitForTimeout
-    await new Promise(resolve => setTimeout(resolve, 2000));
+    // Now navigate to article
+    const response = await page.goto(url, { waitUntil: 'networkidle2', timeout: 45000 });
 
-    // Get the fully rendered HTML
-    const html = await page.content();
-
-    // Extract main readable portion using cheerio
-    const mainContent = extractMainContent(html);
-
-    // Convert HTML → Markdown
-    const turndownService = new TurndownService({
-      headingStyle: "atx",
-      codeBlockStyle: "fenced",
-    });
-
-    // Optional: remove scripts, styles, navbars, etc.
-    if (!mainContent) {
-      return NextResponse.json({ error: "Could not extract main content." }, { status: 500 });
+    // If Cloudflare shows a challenge, detect it and wait longer
+    // We'll wait until page does NOT contain "Just a moment" or "Verification successful" text
+    const MAX_WAIT_MS = 25000;
+    const start = Date.now();
+    while (Date.now() - start < MAX_WAIT_MS) {
+      const html = await page.content();
+      if (!/Just a moment|Verification successful|Checking your browser/.test(html)) {
+        // challenge likely passed
+        break;
+      }
+      // allow some time for JS challenge to finish
+      await page.waitForTimeout(1500);
     }
 
-    const clean = mainContent
-      .replace(/<script[\s\S]*?>[\s\S]*?<\/script>/gi, "")
-      .replace(/<style[\s\S]*?>[\s\S]*?<\/style>/gi, "")
-      .replace(/<nav[\s\S]*?>[\s\S]*?<\/nav>/gi, "")
-      .replace(/<footer[\s\S]*?>[\s\S]*?<\/footer>/gi, "")
-      .replace(/<header[\s\S]*?>[\s\S]*?<\/header>/gi, "")
-      .replace(/<aside[\s\S]*?>[\s\S]*?<\/aside>/gi, "");
+    // If still showing challenge after waiting, try a longer wait or return blocked
+    const finalHtml = await page.content();
 
-    const markdown = turndownService.turndown(clean);
+    if (/Just a moment|Verification successful|Checking your browser/.test(finalHtml)) {
+      // still blocked — likely Cloudflare persistent challenge or CAPTCHA
+      console.warn("Cloudflare challenge still present for", url);
+      return NextResponse.json({ error: "Blocked by anti-bot (Cloudflare) challenge" }, { status: 403 });
+    }
 
-    console.log("Successfully extracted content from:", url);
-    console.log("Markdown length:", markdown.length);
-    console.log("Extracted Markdown:", markdown);
+    // Extract article content
+    const html = finalHtml;
+    const $ = cheerio.load(html);
+
+    // Most sites have article, main, or .post-content — customize this for dawn.com if needed
+    const articleEl = $('article').first();
+    const contentHtml = articleEl.length ? articleEl.html() : $('main').first().html() || $('body').html();
+
+    const turndownService = new TurndownService();
+    const markdown = turndownService.turndown(contentHtml || '');
 
     return new NextResponse(markdown, {
-      headers: { 
-        'Content-Type': 'text/plain',
-        'Content-Length': Buffer.byteLength(markdown).toString()
-      },
-    });
-
+  headers: { 'Content-Type': 'text/plain' },
+  })
   } catch (err: any) {
-    console.error("Error in getSite API:", err);
-    return NextResponse.json({ 
-      error: `Failed to fetch and process URL: ${err.message}` 
-    }, { status: 500 });
+    console.error("Scrape error:", err);
+    return NextResponse.json({ error: err.message || String(err) }, { status: 500 });
   } finally {
-    // Always close the browser to prevent memory leaks
     if (browser) {
-      await browser.close();
+      try { await browser.close(); } catch (e) { /* ignore */ }
     }
   }
 }

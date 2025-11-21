@@ -20,29 +20,39 @@ export async function GET(request: Request) {
       body: JSON.stringify({ url }),
     });
 
-    if (!markdownResponse.ok) {
-      throw new Error(`Failed to get markdown: ${markdownResponse.status}`);
-    }
 
-    
-    let markdown = await markdownResponse.text();
+    let markdown;
+
+
+    if (!markdownResponse.ok) {
+      if(markdownResponse.status == 403) {
+          console.log("GOT 403 ERROR!!")
+          console.log("Site has bot protection :(")
+      }
+      else {
+          throw new Error(`Failed to get markdown: ${markdownResponse.status}`);
+      }
+    }
+    else {
+      markdown = await markdownResponse.text();
+    }
     
     // MAGIC Number is 5000 if length is lesser than call the dynamic route
-    if(markdown.length < 5000)
+    if(markdown && markdown.length < 5000)
     {
-      console.log("Markdown Length: ", markdown.length, " < 5000")
-      console.log("Calling getSite_D...")
-      const markdownResponse2 = await fetch(`${process.env.NEXTAUTH_URL || 'http://localhost:3000'}/api/getSite_D`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ url }),
-    });
-      
-    if (!markdownResponse2.ok) {
-      throw new Error(`Failed to get markdown: ${markdownResponse2.status}`);
-    }
+        console.log("Markdown Length: ", markdown.length, " < 5000")
+        console.log("Calling getSite_D...")
+        const markdownResponse2 = await fetch(`${process.env.NEXTAUTH_URL || 'http://localhost:3000'}/api/getSite_D`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ url }),
+      });
 
-    markdown = await markdownResponse2.text();
+      if (!markdownResponse2.ok) {
+        throw new Error(`Failed to get markdown: ${markdownResponse2.status}`);
+      }
+
+      markdown = await markdownResponse2.text();
 
     }
 

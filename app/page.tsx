@@ -19,7 +19,7 @@ export default function Home() {
       method: "GET",
     });
    
-    //  const res = await fetch(`/api/getSite`, {
+    //  const res = await fetch(`/api/getSite_D`, {
     //   method: "POST",
     //   headers: { "Content-Type": "application/json" },
     //   body: JSON.stringify({ url }),
