@@ -2,6 +2,26 @@ import { NextResponse } from "next/server";
 import * as cheerio from "cheerio";
 import TurndownService from "turndown";
 
+
+function getCorsHeaders(origin?: string) {
+  return {
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Methods': 'GET,POST,OPTIONS',
+    'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+    // 'Access-Control-Allow-Credentials': 'true', // only if you need cookies and origin is explicit (not '*')
+  };
+}
+
+export async function OPTIONS(request: Request) {
+  // const origin = request.headers.get('origin') ?? undefined;
+  console.log("getite OPTIONS CALLED")
+  const headers = getCorsHeaders();
+  // If empty origin header for non-allowed, you can return 403; here we return 204 with headers.
+  return new NextResponse(null, { status: 204, headers });
+}
+
+
+
 // Helper to extract main readable text
 function extractMainContent(html: string) {
   const $ = cheerio.load(html);
@@ -21,6 +41,9 @@ function extractMainContent(html: string) {
 }
 
 export async function POST(req : Request) {
+
+  const headers = getCorsHeaders();
+
   let error_code: number = 200;
   try {
   console.log("getite CALLED")
@@ -66,7 +89,10 @@ console.log("Markdown length:", markdown.length);
 let length: string = "Markdown Length: " + markdown.length.toString();
 
     return new NextResponse(markdown, {
-  headers: { 'Content-Type': 'text/plain' },
+    headers: {
+    ...getCorsHeaders(),     // add your CORS header set here
+    'Content-Type': 'text/plain'
+  },
 });
   } catch (err : any) {
     console.error(err);

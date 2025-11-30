@@ -1,7 +1,26 @@
 import { NextResponse } from "next/server";
-import Markdown from "react-markdown";
+
+function getCorsHeaders(origin?: string) {
+  return {
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Methods': 'GET,POST,OPTIONS',
+    'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+    // 'Access-Control-Allow-Credentials': 'true', // only if you need cookies and origin is explicit (not '*')
+  };
+}
+
+export async function OPTIONS(request: Request) {
+  // const origin = request.headers.get('origin') ?? undefined;
+  const headers = getCorsHeaders();
+  // If empty origin header for non-allowed, you can return 403; here we return 204 with headers.
+  return new NextResponse(null, { status: 204, headers });
+}
+
 
 export async function GET(request: Request) {
+
+  const headers = getCorsHeaders();
+
   console.log("Summarize Site CALLED")
   try {
     const { searchParams } = new URL(request.url);
