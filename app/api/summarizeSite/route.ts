@@ -45,25 +45,24 @@ export async function GET(request: Request) {
 
     if (!markdownResponse.ok) {
       console.log("markdownResponse.status:", markdownResponse.status)
-      if(markdownResponse.status == 403) {
-          console.log("GOT 403 ERROR!!")
-          console.log("Site has bot protection :(")
-          markdown = " "; // Trigger getSite_D call
+      if (markdownResponse.status == 403) {
+        console.log("GOT 403 ERROR!!")
+        console.log("Site has bot protection :(")
+        markdown = " "; // Trigger getSite_D call
       }
       else {
-          throw new Error(`Failed to get markdown: ${markdownResponse.status}`);
+        throw new Error(`Failed to get markdown: ${markdownResponse.status}`);
       }
     }
     else {
       markdown = await markdownResponse.text();
     }
-    
+
     // MAGIC Number is 5000 if length is lesser than call the dynamic route
-    if(markdown && markdown.length < 5000)
-    {
-        console.log("Markdown Length: ", markdown.length, " < 5000")
-        console.log("Calling getSite_D...")
-        const markdownResponse2 = await fetch(`${process.env.NEXTAUTH_URL || 'http://localhost:3000'}/api/getSite_D`, {
+    if (markdown && markdown.length < 5000) {
+      console.log("Markdown Length: ", markdown.length, " < 5000")
+      console.log("Calling getSite_D...")
+      const markdownResponse2 = await fetch(`${process.env.NEXTAUTH_URL || 'http://localhost:3000'}/api/getSite_D`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ url }),
@@ -113,7 +112,10 @@ Provide the summarized and organized content in proper markdown as per above ins
     const summarizedContent = llmData.content || "No content received from LLM";
 
     return new NextResponse(summarizedContent, {
-      headers: { 'Content-Type': 'text/plain' },
+      headers: {
+        ...getCorsHeaders(),     // add your CORS header set here
+        'Content-Type': 'text/plain'
+      },
     });
 
   } catch (err: any) {
