@@ -1,0 +1,3333 @@
+{
+    "results": [
+        {
+            "response": {
+                "doi": "10.1007/978-981-10-6946-8_300464",
+                "year": 2022,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastic Particle",
+                "doi_url": "https://doi.org/10.1007/978-981-10-6946-8_300464",
+                "updated": "2022-06-29T21:01:04.484218",
+                "oa_status": "closed",
+                "publisher": "Springer Nature Singapore",
+                "z_authors": null,
+                "is_paratext": false,
+                "journal_name": "Encyclopedia of Ocean Engineering",
+                "oa_locations": [],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2022-01-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b> Particle",
+            "score": 0.09102392
+        },
+        {
+            "response": {
+                "doi": "10.1038/s41585-024-00917-4",
+                "year": 2024,
+                "genre": "journal-article",
+                "is_oa": false,
+                "title": "Microplastics in the penis",
+                "doi_url": "https://doi.org/10.1038/s41585-024-00917-4",
+                "updated": "2024-07-13T01:11:36.488149",
+                "oa_status": "closed",
+                "publisher": "Springer Science and Business Media LLC",
+                "z_authors": [
+                    {
+                        "given": "Louise",
+                        "family": "Lloyd",
+                        "sequence": "first"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Nature Reviews Urology",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": "1759-4812,1759-4820",
+                "journal_issn_l": "1759-4812",
+                "published_date": "2024-07-12",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastics</b> in the penis",
+            "score": 0.09102392
+        },
+        {
+            "response": {
+                "doi": "10.1097/cej.0000000000000999",
+                "year": 2025,
+                "genre": "journal-article",
+                "is_oa": false,
+                "title": "Microplastics and cancer",
+                "doi_url": "https://doi.org/10.1097/cej.0000000000000999",
+                "updated": "2025-11-17T17:32:04.941277",
+                "oa_status": "closed",
+                "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+                "z_authors": [
+                    {
+                        "given": "Giorgio",
+                        "family": "Bogani",
+                        "sequence": "first",
+                        "affiliation": [
+                            {
+                                "name": "Department of Surgery, Gynecologic Oncologic Unit, Fondazione IRCCS Istituto Nazionale dei Tumori, Milano"
+                            }
+                        ]
+                    },
+                    {
+                        "given": "Erica",
+                        "family": "Trimarchi",
+                        "sequence": "additional",
+                        "affiliation": [
+                            {
+                                "name": "Department of Surgery, Gynecologic Oncologic Unit, Fondazione IRCCS Istituto Nazionale dei Tumori, Milano"
+                            }
+                        ]
+                    },
+                    {
+                        "given": "Valentina",
+                        "family": "Chiappa",
+                        "sequence": "additional",
+                        "affiliation": [
+                            {
+                                "name": "Department of Surgery, Gynecologic Oncologic Unit, Fondazione IRCCS Istituto Nazionale dei Tumori, Milano"
+                            }
+                        ]
+                    },
+                    {
+                        "given": "Giuseppe",
+                        "family": "Vizzielli",
+                        "sequence": "additional",
+                        "affiliation": [
+                            {
+                                "name": "Department of Medical Area (DAME), University of Udine, Clinic of Obstetrics and Gynecology, \u2018Santa Maria Della Misericordia\u2019 University Hospital, Azienda Sanitaria Universitaria Friuli Centrale, Udine"
+                            }
+                        ]
+                    },
+                    {
+                        "given": "Francesco",
+                        "family": "Raspagliesi",
+                        "sequence": "additional",
+                        "affiliation": [
+                            {
+                                "name": "Department of Surgery, Gynecologic Oncologic Unit, Fondazione IRCCS Istituto Nazionale dei Tumori, Milano"
+                            }
+                        ]
+                    },
+                    {
+                        "given": "Carlo",
+                        "family": "La Vecchia",
+                        "sequence": "additional",
+                        "affiliation": [
+                            {
+                                "name": "Department of Clinical Sciences and Community Health, University of Milan"
+                            }
+                        ]
+                    },
+                    {
+                        "given": "Giovanni",
+                        "family": "Corso",
+                        "sequence": "additional",
+                        "affiliation": [
+                            {
+                                "name": "Division of Breast Surgery, European Institute of Oncology, IRCCS"
+                            },
+                            {
+                                "name": "Department of Oncology and Hemato-Oncology, University of Milan, Milan, Italy"
+                            }
+                        ]
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "European Journal of Cancer Prevention",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": "0959-8278,1473-5709",
+                "journal_issn_l": "0959-8278",
+                "published_date": "2025-11-18",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastics</b> and cancer",
+            "score": 0.09102392
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487579-15",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Minimizing Microplastics",
+                "doi_url": "https://doi.org/10.1201/9781003487579-15",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Nimra",
+                        "family": "Qureshi",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Khadija",
+                        "family": "Amjad",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Syeda Gul",
+                        "family": "Nisa",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Mahnoor",
+                        "family": "Malik",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Fatima",
+                        "family": "Malik",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Naeema",
+                        "family": "Khanum",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Zeeshan",
+                        "family": "Khan",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Tariq",
+                        "family": "Shah",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Minimizing <b>Microplastics</b>",
+            "score": 0.09102392
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487579-2",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastics in the Environment",
+                "doi_url": "https://doi.org/10.1201/9781003487579-2",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Usama",
+                        "family": "Saleem",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Mashal",
+                        "family": "Shahzadi",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Aqsa",
+                        "family": "Nisar",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Zeeshan",
+                        "family": "Javed",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Arooj Zaib",
+                        "family": "Warraich",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Fizza",
+                        "family": "Qamar",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Dilbar",
+                        "family": "Hussain",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Rashid",
+                        "family": "Ali",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Mubshar",
+                        "family": "Saleem",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Saba",
+                        "family": "Naz",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Muhammad",
+                        "family": "Asrar",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastics</b> in the Environment",
+            "score": 0.09102392
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487579-20",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastics in the Air",
+                "doi_url": "https://doi.org/10.1201/9781003487579-20",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Zakia",
+                        "family": "Gueboudji",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Kenza",
+                        "family": "Kadi",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastics</b> in the Air",
+            "score": 0.09102392
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487579-9",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Mitigation of Microplastics",
+                "doi_url": "https://doi.org/10.1201/9781003487579-9",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Chingakham",
+                        "family": "Chinglenthoiba",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Kassian T.T.",
+                        "family": "Amesho",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Mohd Yahya Fadzli",
+                        "family": "Jusoh",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Mohamad Nor Azzimi",
+                        "family": "Sohedein",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Elham",
+                        "family": "Taghavi",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Mohd Nizam",
+                        "family": "Lani",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Mitigation of <b>Microplastics</b>",
+            "score": 0.09102392
+        },
+        {
+            "response": {
+                "doi": "10.56726/irjmets46193",
+                "year": 2023,
+                "genre": "journal-article",
+                "is_oa": true,
+                "title": "Epigenetics of Microplastics",
+                "doi_url": "https://doi.org/10.56726/irjmets46193",
+                "updated": "2023-11-16T01:24:57.908142",
+                "oa_status": "bronze",
+                "publisher": "International Research Journal of Modernization in Engineering Technology and Science",
+                "z_authors": null,
+                "is_paratext": false,
+                "journal_name": "International Research Journal of Modernization in Engineering Technology and Science",
+                "oa_locations": [
+                    {
+                        "url": "https://doi.org/10.56726/irjmets46193",
+                        "pmh_id": null,
+                        "is_best": true,
+                        "license": null,
+                        "oa_date": null,
+                        "updated": "2024-01-04T13:29:12.097314",
+                        "version": "publishedVersion",
+                        "evidence": "open (via free pdf)",
+                        "host_type": "publisher",
+                        "endpoint_id": null,
+                        "url_for_pdf": "https://doi.org/10.56726/irjmets46193",
+                        "url_for_landing_page": null,
+                        "repository_institution": null
+                    }
+                ],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": "2582-5208",
+                "journal_issn_l": "2582-5208",
+                "published_date": "2023-11-15",
+                "best_oa_location": {
+                    "url": "https://doi.org/10.56726/irjmets46193",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": null,
+                    "oa_date": null,
+                    "updated": "2024-01-04T13:29:12.097314",
+                    "version": "publishedVersion",
+                    "evidence": "open (via free pdf)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": "https://doi.org/10.56726/irjmets46193",
+                    "url_for_landing_page": null,
+                    "repository_institution": null
+                },
+                "first_oa_location": {
+                    "url": "https://doi.org/10.56726/irjmets46193",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": null,
+                    "oa_date": null,
+                    "updated": "2024-01-04T13:29:12.097314",
+                    "version": "publishedVersion",
+                    "evidence": "open (via free pdf)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": "https://doi.org/10.56726/irjmets46193",
+                    "url_for_landing_page": null,
+                    "repository_institution": null
+                },
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Epigenetics of <b>Microplastics</b>",
+            "score": 0.09102392
+        },
+        {
+            "response": {
+                "doi": "10.1016/j.chemosphere.2025.144062",
+                "year": 2025,
+                "genre": "journal-article",
+                "is_oa": false,
+                "title": "Biodegradable microplastics adsorb more Cd than conventional microplastic and biofilms enhance their adsorption",
+                "doi_url": "https://doi.org/10.1016/j.chemosphere.2025.144062",
+                "updated": "2025-01-08T13:01:11.909135",
+                "oa_status": "closed",
+                "publisher": "Elsevier BV",
+                "z_authors": [
+                    {
+                        "given": "X.",
+                        "family": "Xiao",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "M.E.",
+                        "family": "Hodson",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "J.B.",
+                        "family": "Sallach",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Chemosphere",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": "0045-6535",
+                "journal_issn_l": "0045-6535",
+                "published_date": "2025-02-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Biodegradable <b>microplastics</b> adsorb more Cd than conventional <b>microplastic</b> and biofilms enhance their adsorption",
+            "score": 0.0868589
+        },
+        {
+            "response": {
+                "doi": "10.1186/s12302-024-00967-w",
+                "year": 2024,
+                "genre": "journal-article",
+                "is_oa": true,
+                "title": "Microplastic clouds in rivers: spatiotemporal dynamics of microplastic pollution in a fluvial system",
+                "doi_url": "https://doi.org/10.1186/s12302-024-00967-w",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "gold",
+                "publisher": "Springer Science and Business Media LLC",
+                "z_authors": [
+                    {
+                        "given": "Alexia",
+                        "family": "Balla",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Ahmed",
+                        "family": "Moshen",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "T\u00edmea",
+                        "family": "Kiss",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Environmental Sciences Europe",
+                "oa_locations": [
+                    {
+                        "url": "https://doi.org/10.1186/s12302-024-00967-w",
+                        "pmh_id": null,
+                        "is_best": true,
+                        "license": "cc-by",
+                        "oa_date": "2024-08-11",
+                        "updated": "2025-04-08T12:19:31.275890",
+                        "version": "publishedVersion",
+                        "evidence": "oa journal (via doaj)",
+                        "host_type": "publisher",
+                        "endpoint_id": null,
+                        "url_for_pdf": null,
+                        "url_for_landing_page": "https://doi.org/10.1186/s12302-024-00967-w",
+                        "repository_institution": null
+                    },
+                    {
+                        "url": "https://real.mtak.hu/205588/1/EnviSCi_clouds.pdf",
+                        "pmh_id": "oai:real.mtak.hu:205588",
+                        "is_best": false,
+                        "license": "cc-by",
+                        "oa_date": "2024-09-23",
+                        "updated": "2024-12-05T06:44:24.324267",
+                        "version": "acceptedVersion",
+                        "evidence": "oa repository (via OAI-PMH doi match)",
+                        "host_type": "repository",
+                        "endpoint_id": "97b9590e20d86d7e6b4",
+                        "url_for_pdf": "https://real.mtak.hu/205588/1/EnviSCi_clouds.pdf",
+                        "url_for_landing_page": "https://real.mtak.hu/205588/1/EnviSCi_clouds.pdf",
+                        "repository_institution": "Library of the Hungarian Academy of Sciences - Repository of the Academy's Library"
+                    }
+                ],
+                "data_standard": 2,
+                "journal_is_oa": true,
+                "journal_issns": "2190-4715",
+                "journal_issn_l": "2190-4715",
+                "published_date": "2024-08-11",
+                "best_oa_location": {
+                    "url": "https://doi.org/10.1186/s12302-024-00967-w",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": "cc-by",
+                    "oa_date": "2024-08-11",
+                    "updated": "2025-04-08T12:19:31.275890",
+                    "version": "publishedVersion",
+                    "evidence": "oa journal (via doaj)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.1186/s12302-024-00967-w",
+                    "repository_institution": null
+                },
+                "first_oa_location": {
+                    "url": "https://doi.org/10.1186/s12302-024-00967-w",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": "cc-by",
+                    "oa_date": "2024-08-11",
+                    "updated": "2025-04-08T12:19:31.275890",
+                    "version": "publishedVersion",
+                    "evidence": "oa journal (via doaj)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.1186/s12302-024-00967-w",
+                    "repository_institution": null
+                },
+                "journal_is_in_doaj": true,
+                "has_repository_copy": true,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b> clouds in rivers: spatiotemporal dynamics of <b>microplastic</b> pollution in a fluvial system",
+            "score": 0.0868589
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487555-13",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastic-Associated Biofilms and Their Role in the Fate of Microplastics in Aquatic Environment",
+                "doi_url": "https://doi.org/10.1201/9781003487555-13",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Hira",
+                        "family": "Azhar",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Zonaira",
+                        "family": "Qaiser",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Asmara",
+                        "family": "Iftikhar",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Muhammad",
+                        "family": "Aqeel",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Ali",
+                        "family": "Noman",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Noreen",
+                        "family": "Khalid",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b>-Associated Biofilms and Their Role in the Fate of <b>Microplastics</b> in Aquatic Environment",
+            "score": 0.0868589
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003503705-3",
+                "year": 2024,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastic Pollution \u2013 An Emerging Concern for Freshwaters: Effects and Overcome to Microplastic Pollution",
+                "doi_url": "https://doi.org/10.1201/9781003503705-3",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Inain",
+                        "family": "Jaies",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Imtiyaz Qayoom",
+                        "family": "Feroz",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "A.",
+                        "family": "Shah",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Monisa",
+                        "family": "Mehboob",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Aquatic Pollution",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2024-04-30",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b> Pollution \u2013 An Emerging Concern for Freshwaters: Effects and Overcome to <b>Microplastic</b> Pollution",
+            "score": 0.0868589
+        },
+        {
+            "response": {
+                "doi": "10.31223/x5q982",
+                "year": 2024,
+                "genre": "posted-content",
+                "is_oa": true,
+                "title": "Mapping microplastic movement: A phase diagram to predict microplastics modes of transport",
+                "doi_url": "https://doi.org/10.31223/x5q982",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "green",
+                "publisher": "California Digital Library (CDL)",
+                "z_authors": [
+                    {
+                        "given": "Hadeel",
+                        "family": "Al-Zawaidah",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Merel",
+                        "family": "Kooi",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Ton",
+                        "family": "Hoitink",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Bart",
+                        "family": "Vermeulen",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Kryss",
+                        "family": "Waldschl\u00e4ger",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": null,
+                "oa_locations": [
+                    {
+                        "url": "https://doi.org/10.31223/x5q982",
+                        "pmh_id": null,
+                        "is_best": true,
+                        "license": null,
+                        "oa_date": null,
+                        "updated": null,
+                        "version": "submittedVersion",
+                        "evidence": "oa repository (via OAI-PMH title and first author match)",
+                        "host_type": "repository",
+                        "endpoint_id": "l6r8fqxf84hg3xuqslkj",
+                        "url_for_pdf": null,
+                        "url_for_landing_page": "https://doi.org/10.31223/x5q982",
+                        "repository_institution": "California Digital Library - EarthArXiv"
+                    }
+                ],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2024-04-28",
+                "best_oa_location": {
+                    "url": "https://doi.org/10.31223/x5q982",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": null,
+                    "oa_date": null,
+                    "updated": null,
+                    "version": "submittedVersion",
+                    "evidence": "oa repository (via OAI-PMH title and first author match)",
+                    "host_type": "repository",
+                    "endpoint_id": "l6r8fqxf84hg3xuqslkj",
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.31223/x5q982",
+                    "repository_institution": "California Digital Library - EarthArXiv"
+                },
+                "first_oa_location": {
+                    "url": "https://doi.org/10.31223/x5q982",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": null,
+                    "oa_date": null,
+                    "updated": null,
+                    "version": "submittedVersion",
+                    "evidence": "oa repository (via OAI-PMH title and first author match)",
+                    "host_type": "repository",
+                    "endpoint_id": "l6r8fqxf84hg3xuqslkj",
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.31223/x5q982",
+                    "repository_institution": "California Digital Library - EarthArXiv"
+                },
+                "journal_is_in_doaj": false,
+                "has_repository_copy": true,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Mapping <b>microplastic</b> movement: A phase diagram to predict <b>microplastics</b> modes of transport",
+            "score": 0.0868589
+        },
+        {
+            "response": {
+                "doi": "10.1016/j.jhazmat.2025.140477",
+                "year": 2025,
+                "genre": "journal-article",
+                "is_oa": false,
+                "title": "Photochemical transformation of microplastics-derived dissolved organic matter altered the photoaging of microplastics",
+                "doi_url": "https://doi.org/10.1016/j.jhazmat.2025.140477",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "Elsevier BV",
+                "z_authors": [
+                    {
+                        "given": "Ling",
+                        "family": "Ding",
+                        "sequence": "first"
+                    },
+                    {
+                        "ORCID": "https://orcid.org/0009-0002-1413-2736",
+                        "given": "Haiwen",
+                        "family": "Zhang",
+                        "sequence": "additional",
+                        "authenticated-orcid": false
+                    },
+                    {
+                        "given": "Hao",
+                        "family": "Chen",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Guodong",
+                        "family": "Zhang",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Xinran",
+                        "family": "Qiu",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Bin",
+                        "family": "Zhang",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Xujun",
+                        "family": "Liang",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Jing",
+                        "family": "Wei",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Xuetao",
+                        "family": "Guo",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Journal of Hazardous Materials",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": "0304-3894",
+                "journal_issn_l": "0304-3894",
+                "published_date": "2025-12-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Photochemical transformation of <b>microplastics</b>-derived dissolved organic matter altered the photoaging of <b>microplastics</b>",
+            "score": 0.080485925
+        },
+        {
+            "response": {
+                "doi": "10.1016/j.scitotenv.2024.173163",
+                "year": 2024,
+                "genre": "journal-article",
+                "is_oa": false,
+                "title": "The environmental effects of microplastics and microplastic derived dissolved organic matter in aquatic environments: A review",
+                "doi_url": "https://doi.org/10.1016/j.scitotenv.2024.173163",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "Elsevier BV",
+                "z_authors": [
+                    {
+                        "given": "Zhichao",
+                        "family": "Zhu",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Xu",
+                        "family": "Cao",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Kezhi",
+                        "family": "Wang",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Yujie",
+                        "family": "Guan",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Yuqi",
+                        "family": "Ma",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Zhuoyu",
+                        "family": "Li",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Jiunian",
+                        "family": "Guan",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Science of The Total Environment",
+                "oa_locations": [],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": "0048-9697",
+                "journal_issn_l": "0048-9697",
+                "published_date": "2024-07-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "environmental effects of <b>microplastics</b> and <b>microplastic</b> derived dissolved organic matter in aquatic environments: A review",
+            "score": 0.080485925
+        },
+        {
+            "response": {
+                "doi": "10.22214/ijraset.2025.69997",
+                "year": 2025,
+                "genre": "journal-article",
+                "is_oa": true,
+                "title": "A Review of Recent Advances in Microplastic Research and ROVs to Aid the Development of an Integrated Solution for Microplastic Pollution",
+                "doi_url": "https://doi.org/10.22214/ijraset.2025.69997",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "gold",
+                "publisher": "International Journal for Research in Applied Science and Engineering Technology (IJRASET)",
+                "z_authors": [
+                    {
+                        "given": "Abdul Ahad",
+                        "family": "Khan",
+                        "sequence": "first"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "International Journal for Research in Applied Science and Engineering Technology",
+                "oa_locations": [
+                    {
+                        "url": "https://doi.org/10.22214/ijraset.2025.69997",
+                        "pmh_id": null,
+                        "is_best": true,
+                        "license": null,
+                        "oa_date": "2025-04-30",
+                        "updated": "2025-05-04T04:16:22.794289",
+                        "version": "publishedVersion",
+                        "evidence": "oa journal (via observed oa rate)",
+                        "host_type": "publisher",
+                        "endpoint_id": null,
+                        "url_for_pdf": null,
+                        "url_for_landing_page": "https://doi.org/10.22214/ijraset.2025.69997",
+                        "repository_institution": null
+                    }
+                ],
+                "data_standard": 1,
+                "journal_is_oa": true,
+                "journal_issns": "2321-9653",
+                "journal_issn_l": "2321-9653",
+                "published_date": "2025-04-30",
+                "best_oa_location": {
+                    "url": "https://doi.org/10.22214/ijraset.2025.69997",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": null,
+                    "oa_date": "2025-04-30",
+                    "updated": "2025-05-04T04:16:22.794289",
+                    "version": "publishedVersion",
+                    "evidence": "oa journal (via observed oa rate)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.22214/ijraset.2025.69997",
+                    "repository_institution": null
+                },
+                "first_oa_location": {
+                    "url": "https://doi.org/10.22214/ijraset.2025.69997",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": null,
+                    "oa_date": "2025-04-30",
+                    "updated": "2025-05-04T04:16:22.794289",
+                    "version": "publishedVersion",
+                    "evidence": "oa journal (via observed oa rate)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.22214/ijraset.2025.69997",
+                    "repository_institution": null
+                },
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b> Research and ROVs to Aid the Development of an Integrated Solution for <b>Microplastic</b> Pollution",
+            "score": 0.07797425
+        },
+        {
+            "response": {
+                "doi": "10.1016/j.fertnstert.2024.08.200",
+                "year": 2024,
+                "genre": "journal-article",
+                "is_oa": true,
+                "title": "ESTABLISHMENT OF EXPERIMENTAL PROTOCOLS FOR MICROPLASTIC EXPOSURES IN HUMAN ENDOMETRIAL CELLS AND POSSIBLE ASSOCIATION OF MICROPLASTICS IN THE PATHOGENESIS OF ENDOMETRIOSIS",
+                "doi_url": "https://doi.org/10.1016/j.fertnstert.2024.08.200",
+                "updated": "2025-12-08T15:45:58.951466",
+                "oa_status": "bronze",
+                "publisher": "Elsevier BV",
+                "z_authors": [
+                    {
+                        "given": "Hyemin",
+                        "family": "Park",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Inha",
+                        "family": "Lee",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Jae Hoon",
+                        "family": "Lee",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Young Sik",
+                        "family": "Choi",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "SiHyun",
+                        "family": "Cho",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Fertility and Sterility",
+                "oa_locations": [
+                    {
+                        "url": "https://doi.org/10.1016/j.fertnstert.2024.08.200",
+                        "pmh_id": null,
+                        "is_best": true,
+                        "license": "publisher-specific-oa",
+                        "oa_date": null,
+                        "updated": "2025-12-08T15:45:58.858454",
+                        "version": "publishedVersion",
+                        "evidence": "open (via crossref license)",
+                        "host_type": "publisher",
+                        "endpoint_id": null,
+                        "url_for_pdf": null,
+                        "url_for_landing_page": "https://doi.org/10.1016/j.fertnstert.2024.08.200",
+                        "repository_institution": null
+                    }
+                ],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": "0015-0282",
+                "journal_issn_l": "0015-0282",
+                "published_date": "2024-10-01",
+                "best_oa_location": {
+                    "url": "https://doi.org/10.1016/j.fertnstert.2024.08.200",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": "publisher-specific-oa",
+                    "oa_date": null,
+                    "updated": "2025-12-08T15:45:58.858454",
+                    "version": "publishedVersion",
+                    "evidence": "open (via crossref license)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.1016/j.fertnstert.2024.08.200",
+                    "repository_institution": null
+                },
+                "first_oa_location": {
+                    "url": "https://doi.org/10.1016/j.fertnstert.2024.08.200",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": "publisher-specific-oa",
+                    "oa_date": null,
+                    "updated": "2025-12-08T15:45:58.858454",
+                    "version": "publishedVersion",
+                    "evidence": "open (via crossref license)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.1016/j.fertnstert.2024.08.200",
+                    "repository_institution": null
+                },
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>MICROPLASTIC</b> EXPOSURES IN HUMAN ENDOMETRIAL CELLS AND POSSIBLE ASSOCIATION OF <b>MICROPLASTICS</b> IN THE PATHOGENESIS OF ENDOMETRIOSIS",
+            "score": 0.07578464
+        },
+        {
+            "response": {
+                "doi": "10.1021/acs.jafc.3c06576.s001",
+                "year": null,
+                "genre": "component",
+                "is_oa": true,
+                "title": "Polylactic Acid Microplastics Do Not Exhibit Lower Biological Toxicity in Growing Mice Compared to Polyvinyl Chloride Microplastics",
+                "doi_url": "https://doi.org/10.1021/acs.jafc.3c06576.s001",
+                "updated": "2023-12-02T01:47:19.039620",
+                "oa_status": "bronze",
+                "publisher": "American Chemical Society (ACS)",
+                "z_authors": null,
+                "is_paratext": false,
+                "journal_name": null,
+                "oa_locations": [
+                    {
+                        "url": "https://doi.org/10.1021/acs.jafc.3c06576.s001",
+                        "pmh_id": null,
+                        "is_best": true,
+                        "license": null,
+                        "oa_date": null,
+                        "updated": "2023-12-02T01:47:17.378739",
+                        "version": "publishedVersion",
+                        "evidence": "open (via free pdf)",
+                        "host_type": "publisher",
+                        "endpoint_id": null,
+                        "url_for_pdf": "https://doi.org/10.1021/acs.jafc.3c06576.s001",
+                        "url_for_landing_page": null,
+                        "repository_institution": null
+                    },
+                    {
+                        "url": "https://figshare.com/articles/journal_contribution/Polylactic_Acid_Microplastics_Do_Not_Exhibit_Lower_Biological_Toxicity_in_Growing_Mice_Compared_to_Polyvinyl_Chloride_Microplastics/24714621/1/files/43423032.pdf",
+                        "pmh_id": "oai:figshare.com:article/24714621",
+                        "is_best": false,
+                        "license": "cc-by-nc",
+                        "oa_date": "2023-12-01",
+                        "updated": "2023-12-03T02:34:38.173811",
+                        "version": "submittedVersion",
+                        "evidence": "oa repository (via OAI-PMH doi match)",
+                        "host_type": "repository",
+                        "endpoint_id": "vzs6na3qd8sizyhrp6u5",
+                        "url_for_pdf": "https://figshare.com/articles/journal_contribution/Polylactic_Acid_Microplastics_Do_Not_Exhibit_Lower_Biological_Toxicity_in_Growing_Mice_Compared_to_Polyvinyl_Chloride_Microplastics/24714621/1/files/43423032.pdf",
+                        "url_for_landing_page": "https://figshare.com/articles/journal_contribution/Polylactic_Acid_Microplastics_Do_Not_Exhibit_Lower_Biological_Toxicity_in_Growing_Mice_Compared_to_Polyvinyl_Chloride_Microplastics/24714621",
+                        "repository_institution": "University of Illinois at Chicago - INDIGO"
+                    }
+                ],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": null,
+                "best_oa_location": {
+                    "url": "https://doi.org/10.1021/acs.jafc.3c06576.s001",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": null,
+                    "oa_date": null,
+                    "updated": "2023-12-02T01:47:17.378739",
+                    "version": "publishedVersion",
+                    "evidence": "open (via free pdf)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": "https://doi.org/10.1021/acs.jafc.3c06576.s001",
+                    "url_for_landing_page": null,
+                    "repository_institution": null
+                },
+                "first_oa_location": {
+                    "url": "https://figshare.com/articles/journal_contribution/Polylactic_Acid_Microplastics_Do_Not_Exhibit_Lower_Biological_Toxicity_in_Growing_Mice_Compared_to_Polyvinyl_Chloride_Microplastics/24714621/1/files/43423032.pdf",
+                    "pmh_id": "oai:figshare.com:article/24714621",
+                    "is_best": false,
+                    "license": "cc-by-nc",
+                    "oa_date": "2023-12-01",
+                    "updated": "2023-12-03T02:34:38.173811",
+                    "version": "submittedVersion",
+                    "evidence": "oa repository (via OAI-PMH doi match)",
+                    "host_type": "repository",
+                    "endpoint_id": "vzs6na3qd8sizyhrp6u5",
+                    "url_for_pdf": "https://figshare.com/articles/journal_contribution/Polylactic_Acid_Microplastics_Do_Not_Exhibit_Lower_Biological_Toxicity_in_Growing_Mice_Compared_to_Polyvinyl_Chloride_Microplastics/24714621/1/files/43423032.pdf",
+                    "url_for_landing_page": "https://figshare.com/articles/journal_contribution/Polylactic_Acid_Microplastics_Do_Not_Exhibit_Lower_Biological_Toxicity_in_Growing_Mice_Compared_to_Polyvinyl_Chloride_Microplastics/24714621",
+                    "repository_institution": "University of Illinois at Chicago - INDIGO"
+                },
+                "journal_is_in_doaj": false,
+                "has_repository_copy": true,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastics</b> Do Not Exhibit Lower Biological Toxicity in Growing Mice Compared to Polyvinyl Chloride <b>Microplastics</b>",
+            "score": 0.07578464
+        },
+        {
+            "response": {
+                "doi": "10.1016/j.scitotenv.2022.154866",
+                "year": 2022,
+                "genre": "journal-article",
+                "is_oa": true,
+                "title": "Long-term interactions between microplastics and floating macrophyte Lemna minor: The potential for phytoremediation of microplastics in the aquatic environment",
+                "doi_url": "https://doi.org/10.1016/j.scitotenv.2022.154866",
+                "updated": "2022-07-30T07:50:09.164440",
+                "oa_status": "hybrid",
+                "publisher": "Elsevier BV",
+                "z_authors": [
+                    {
+                        "given": "Ula",
+                        "family": "Rozman",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Anita",
+                        "family": "Jemec Kokalj",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Andra\u017e",
+                        "family": "Dolar",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Damjana",
+                        "family": "Drobne",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Gabriela",
+                        "family": "Kal\u010d\u00edkov\u00e1",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Science of The Total Environment",
+                "oa_locations": [
+                    {
+                        "url": "https://doi.org/10.1016/j.scitotenv.2022.154866",
+                        "pmh_id": null,
+                        "is_best": true,
+                        "license": "cc-by",
+                        "oa_date": "2022-03-28",
+                        "updated": "2025-03-25T06:54:01.531939",
+                        "version": "publishedVersion",
+                        "evidence": "open (via crossref license)",
+                        "host_type": "publisher",
+                        "endpoint_id": null,
+                        "url_for_pdf": null,
+                        "url_for_landing_page": "https://doi.org/10.1016/j.scitotenv.2022.154866",
+                        "repository_institution": null
+                    },
+                    {
+                        "url": "https://repozitorij.uni-lj.si/Dokument.php?id=157679&dn=",
+                        "pmh_id": "oai:repozitorij.uni-lj.si:IzpisGradiva.php?id=137642",
+                        "is_best": false,
+                        "license": "cc-by",
+                        "oa_date": "2022-06-25",
+                        "updated": "2024-08-31T20:17:19.418753",
+                        "version": "publishedVersion",
+                        "evidence": "oa repository (via OAI-PMH doi match)",
+                        "host_type": "repository",
+                        "endpoint_id": "9522f4741b3dfec100d",
+                        "url_for_pdf": "https://repozitorij.uni-lj.si/Dokument.php?id=157679&dn=",
+                        "url_for_landing_page": "https://repozitorij.uni-lj.si/Dokument.php?id=157679&dn=",
+                        "repository_institution": null
+                    },
+                    {
+                        "url": "https://repozitorij.uni-lj.si/Dokument.php?lang=slv&id=157679&dn=",
+                        "pmh_id": "oai:repozitorij.uni-lj.si:IzpisGradiva.php?id=137642",
+                        "is_best": false,
+                        "license": "cc-by",
+                        "oa_date": "2022-06-25",
+                        "updated": "2024-08-31T23:49:20.396036",
+                        "version": "publishedVersion",
+                        "evidence": "oa repository (via OAI-PMH doi match)",
+                        "host_type": "repository",
+                        "endpoint_id": "9522f4741b3dfec100d",
+                        "url_for_pdf": "https://repozitorij.uni-lj.si/Dokument.php?lang=slv&id=157679&dn=",
+                        "url_for_landing_page": "https://repozitorij.uni-lj.si/IzpisGradiva.php?id=137642",
+                        "repository_institution": null
+                    }
+                ],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": "0048-9697",
+                "journal_issn_l": "0048-9697",
+                "published_date": "2022-07-01",
+                "best_oa_location": {
+                    "url": "https://doi.org/10.1016/j.scitotenv.2022.154866",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": "cc-by",
+                    "oa_date": "2022-03-28",
+                    "updated": "2025-03-25T06:54:01.531939",
+                    "version": "publishedVersion",
+                    "evidence": "open (via crossref license)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.1016/j.scitotenv.2022.154866",
+                    "repository_institution": null
+                },
+                "first_oa_location": {
+                    "url": "https://doi.org/10.1016/j.scitotenv.2022.154866",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": "cc-by",
+                    "oa_date": "2022-03-28",
+                    "updated": "2025-03-25T06:54:01.531939",
+                    "version": "publishedVersion",
+                    "evidence": "open (via crossref license)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.1016/j.scitotenv.2022.154866",
+                    "repository_institution": null
+                },
+                "journal_is_in_doaj": false,
+                "has_repository_copy": true,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>microplastics</b> and floating macrophyte Lemna minor: The potential for phytoremediation of <b>microplastics</b> in the aquatic",
+            "score": 0.07385387
+        },
+        {
+            "response": {
+                "doi": "10.1007/978-3-030-10618-8_14-1",
+                "year": 2020,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Sorption of Pharmaceuticals on Microplastics",
+                "doi_url": "https://doi.org/10.1007/978-3-030-10618-8_14-1",
+                "updated": "2021-01-20T19:49:38.800009",
+                "oa_status": "closed",
+                "publisher": "Springer International Publishing",
+                "z_authors": [
+                    {
+                        "given": "L\u00facia H. M. L. M.",
+                        "family": "Santos",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Sara",
+                        "family": "Rodr\u00edguez-Mozaz",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Dami\u00e0",
+                        "family": "Barcel\u00f3",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastics in the Environment",
+                "oa_locations": [],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2020-12-13",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Sorption of Pharmaceuticals on <b>Microplastics</b>",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1007/978-3-030-39041-9_33",
+                "year": 2022,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Removal of Microplastics from Wastewater",
+                "doi_url": "https://doi.org/10.1007/978-3-030-39041-9_33",
+                "updated": "2022-02-24T21:03:46.055426",
+                "oa_status": "closed",
+                "publisher": "Springer International Publishing",
+                "z_authors": [
+                    {
+                        "given": "Javier",
+                        "family": "Bayo",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Sonia",
+                        "family": "Olmos",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Joaqu\u00edn",
+                        "family": "L\u00f3pez-Castellanos",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastics in the Environment",
+                "oa_locations": [],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2022-01-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Removal of <b>Microplastics</b> from Wastewater",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1016/b978-0-443-13559-0.00012-1",
+                "year": 2026,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "The microplastic and nanoplastic world",
+                "doi_url": "https://doi.org/10.1016/b978-0-443-13559-0.00012-1",
+                "updated": "2025-10-31T23:01:40.496359",
+                "oa_status": "closed",
+                "publisher": "Elsevier",
+                "z_authors": [
+                    {
+                        "given": "Nelson Guillermo",
+                        "family": "Rangel-Buitrago",
+                        "sequence": "first"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Plastics in Coastal and Marine Environments",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2026-01-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "The <b>microplastic</b> and nanoplastic world",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1016/b978-0-443-14158-4.00012-9",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastic pollution in tea",
+                "doi_url": "https://doi.org/10.1016/b978-0-443-14158-4.00012-9",
+                "updated": "2025-09-25T16:43:05.079608",
+                "oa_status": "closed",
+                "publisher": "Elsevier",
+                "z_authors": [
+                    {
+                        "given": "Farah Noshin",
+                        "family": "Chowdhury",
+                        "sequence": "first"
+                    },
+                    {
+                        "ORCID": "https://orcid.org/0000-0002-5290-3821",
+                        "given": "Md Mostafizur",
+                        "family": "Rahman",
+                        "sequence": "additional",
+                        "authenticated-orcid": false
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Tea in Health and Disease Prevention",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-01-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b> pollution in tea",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1016/j.ecoenv.2024.116746",
+                "year": 2024,
+                "genre": "journal-article",
+                "is_oa": true,
+                "title": "Microplastics and metals: Microplastics generated from biodegradable polylactic acid mulch reduce bioaccumulation of cadmium in earthworms compared to those generated from polyethylene",
+                "doi_url": "https://doi.org/10.1016/j.ecoenv.2024.116746",
+                "updated": "2024-11-09T15:06:24.184027",
+                "oa_status": "gold",
+                "publisher": "Elsevier BV",
+                "z_authors": [
+                    {
+                        "given": "X.",
+                        "family": "Xiao",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "J.B.",
+                        "family": "Sallach",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "M.E.",
+                        "family": "Hodson",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Ecotoxicology and Environmental Safety",
+                "oa_locations": [
+                    {
+                        "url": "https://doi.org/10.1016/j.ecoenv.2024.116746",
+                        "pmh_id": null,
+                        "is_best": true,
+                        "license": "cc-by",
+                        "oa_date": "2024-09-01",
+                        "updated": "2025-04-24T04:33:13.283919",
+                        "version": "publishedVersion",
+                        "evidence": "oa journal (via doaj)",
+                        "host_type": "publisher",
+                        "endpoint_id": null,
+                        "url_for_pdf": null,
+                        "url_for_landing_page": "https://doi.org/10.1016/j.ecoenv.2024.116746",
+                        "repository_institution": null
+                    },
+                    {
+                        "url": "https://eprints.whiterose.ac.uk/214836/5/1-s2.0-S0147651324008224-main.pdf",
+                        "pmh_id": "oai:eprints.whiterose.ac.uk:214836",
+                        "is_best": false,
+                        "license": "cc-by",
+                        "oa_date": "2024-09-30",
+                        "updated": "2024-12-05T08:32:38.027602",
+                        "version": "acceptedVersion",
+                        "evidence": "oa repository (via OAI-PMH doi match)",
+                        "host_type": "repository",
+                        "endpoint_id": "83acdeb0a2b75a2e162",
+                        "url_for_pdf": "https://eprints.whiterose.ac.uk/214836/5/1-s2.0-S0147651324008224-main.pdf",
+                        "url_for_landing_page": "https://eprints.whiterose.ac.uk/214836/5/1-s2.0-S0147651324008224-main.pdf",
+                        "repository_institution": null
+                    }
+                ],
+                "data_standard": 2,
+                "journal_is_oa": true,
+                "journal_issns": "0147-6513",
+                "journal_issn_l": "0147-6513",
+                "published_date": "2024-09-01",
+                "best_oa_location": {
+                    "url": "https://doi.org/10.1016/j.ecoenv.2024.116746",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": "cc-by",
+                    "oa_date": "2024-09-01",
+                    "updated": "2025-04-24T04:33:13.283919",
+                    "version": "publishedVersion",
+                    "evidence": "oa journal (via doaj)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.1016/j.ecoenv.2024.116746",
+                    "repository_institution": null
+                },
+                "first_oa_location": {
+                    "url": "https://doi.org/10.1016/j.ecoenv.2024.116746",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": "cc-by",
+                    "oa_date": "2024-09-01",
+                    "updated": "2025-04-24T04:33:13.283919",
+                    "version": "publishedVersion",
+                    "evidence": "oa journal (via doaj)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.1016/j.ecoenv.2024.116746",
+                    "repository_institution": null
+                },
+                "journal_is_in_doaj": true,
+                "has_repository_copy": true,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastics</b> and metals: <b>Microplastics</b> generated from biodegradable polylactic acid mulch reduce bioaccumulation of cadmium in earthworms",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1021/acs.est.3c03620",
+                "year": 2023,
+                "genre": "journal-article",
+                "is_oa": true,
+                "title": "Adding Depth to Microplastics",
+                "doi_url": "https://doi.org/10.1021/acs.est.3c03620",
+                "updated": "2025-12-10T11:00:31.469508",
+                "oa_status": "hybrid",
+                "publisher": "American Chemical Society (ACS)",
+                "z_authors": [
+                    {
+                        "given": "Margherita",
+                        "family": "Barchiesi",
+                        "sequence": "first",
+                        "affiliation": [
+                            {
+                                "name": "Aquatic Ecology and Water Quality Management Group, Wageningen University, P.O. Box 47, 6700 DD, Wageningen, The Netherlands"
+                            },
+                            {
+                                "name": "DICEA\u2500Department of Civil, Constructional and Environmental Engineering, Sapienza University of Rome, Via Eudossiana, 18, 00184 Roma, Italy"
+                            }
+                        ]
+                    },
+                    {
+                        "given": "Merel",
+                        "family": "Kooi",
+                        "sequence": "additional",
+                        "affiliation": [
+                            {
+                                "name": "Aquatic Ecology and Water Quality Management Group, Wageningen University, P.O. Box 47, 6700 DD, Wageningen, The Netherlands"
+                            }
+                        ]
+                    },
+                    {
+                        "ORCID": "https://orcid.org/0000-0001-7176-4356",
+                        "given": "Albert A.",
+                        "family": "Koelmans",
+                        "sequence": "additional",
+                        "affiliation": [
+                            {
+                                "name": "Aquatic Ecology and Water Quality Management Group, Wageningen University, P.O. Box 47, 6700 DD, Wageningen, The Netherlands"
+                            }
+                        ],
+                        "authenticated-orcid": true
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Environmental Science &amp; Technology",
+                "oa_locations": [
+                    {
+                        "url": "https://doi.org/10.1021/acs.est.3c03620",
+                        "pmh_id": null,
+                        "is_best": true,
+                        "license": "cc-by",
+                        "oa_date": "2023-09-08",
+                        "updated": "2025-12-10T11:00:31.086449",
+                        "version": "publishedVersion",
+                        "evidence": "open (via crossref license)",
+                        "host_type": "publisher",
+                        "endpoint_id": null,
+                        "url_for_pdf": null,
+                        "url_for_landing_page": "https://doi.org/10.1021/acs.est.3c03620",
+                        "repository_institution": null
+                    },
+                    {
+                        "url": "https://iris.uniroma1.it/bitstream/11573/1696127/1/Barchiesi_Adding-depth-microplastics_2023.pdf",
+                        "pmh_id": "oai:iris.uniroma1.it:11573/1696127",
+                        "is_best": false,
+                        "license": "other-oa",
+                        "oa_date": "2024-09-07",
+                        "updated": "2024-09-10T21:34:47.865369",
+                        "version": "publishedVersion",
+                        "evidence": "oa repository (via OAI-PMH doi match)",
+                        "host_type": "repository",
+                        "endpoint_id": "e54c3f8f38e86801023",
+                        "url_for_pdf": "https://iris.uniroma1.it/bitstream/11573/1696127/1/Barchiesi_Adding-depth-microplastics_2023.pdf",
+                        "url_for_landing_page": "https://hdl.handle.net/11573/1696127",
+                        "repository_institution": null
+                    },
+                    {
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10515489",
+                        "pmh_id": null,
+                        "is_best": false,
+                        "license": null,
+                        "oa_date": null,
+                        "updated": "2025-12-10T11:00:31.086591",
+                        "version": "publishedVersion",
+                        "evidence": "oa repository (via pmcid lookup)",
+                        "host_type": "repository",
+                        "endpoint_id": null,
+                        "url_for_pdf": null,
+                        "url_for_landing_page": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10515489",
+                        "repository_institution": null
+                    }
+                ],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": "0013-936X,1520-5851",
+                "journal_issn_l": "0013-936X",
+                "published_date": "2023-09-08",
+                "best_oa_location": {
+                    "url": "https://doi.org/10.1021/acs.est.3c03620",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": "cc-by",
+                    "oa_date": "2023-09-08",
+                    "updated": "2025-12-10T11:00:31.086449",
+                    "version": "publishedVersion",
+                    "evidence": "open (via crossref license)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.1021/acs.est.3c03620",
+                    "repository_institution": null
+                },
+                "first_oa_location": {
+                    "url": "https://doi.org/10.1021/acs.est.3c03620",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": "cc-by",
+                    "oa_date": "2023-09-08",
+                    "updated": "2025-12-10T11:00:31.086449",
+                    "version": "publishedVersion",
+                    "evidence": "open (via crossref license)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.1021/acs.est.3c03620",
+                    "repository_institution": null
+                },
+                "journal_is_in_doaj": false,
+                "has_repository_copy": true,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Adding Depth to <b>Microplastics</b>",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1126/science.352.6290.1185-b",
+                "year": 2016,
+                "genre": "journal-article",
+                "is_oa": false,
+                "title": "Microplastic's triple threat",
+                "doi_url": "https://doi.org/10.1126/science.352.6290.1185-b",
+                "updated": "2021-01-13T06:08:05.838749",
+                "oa_status": "closed",
+                "publisher": "American Association for the Advancement of Science (AAAS)",
+                "z_authors": [
+                    {
+                        "given": "Sacha",
+                        "family": "Vignieri",
+                        "sequence": "first"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Science",
+                "oa_locations": [],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": "0036-8075,1095-9203",
+                "journal_issn_l": "0036-8075",
+                "published_date": "2016-06-02",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b>'s triple threat",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1130/abs/2022nc-374986",
+                "year": 2022,
+                "genre": "proceedings-article",
+                "is_oa": false,
+                "title": "MICROPLASTICS IN TERRESTRIAL SNAILS",
+                "doi_url": "https://doi.org/10.1130/abs/2022nc-374986",
+                "updated": "2022-04-11T21:02:07.883350",
+                "oa_status": "closed",
+                "publisher": "Geological Society of America",
+                "z_authors": [
+                    {
+                        "given": "Gregory",
+                        "family": "Bonilla",
+                        "sequence": "first"
+                    },
+                    {
+                        "name": "University of Tennessee",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Eryn",
+                        "family": "Watson",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Michael",
+                        "family": "McKinney",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Richard",
+                        "family": "Gerhold",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Carissa",
+                        "family": "Elonen",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Geological Society of America Abstracts with Programs",
+                "oa_locations": [],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": "0016-7592",
+                "journal_issn_l": "0016-7592",
+                "published_date": "2022-01-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>MICROPLASTICS</b> IN TERRESTRIAL SNAILS",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487555-10",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastics in Freshwater Ecosystems",
+                "doi_url": "https://doi.org/10.1201/9781003487555-10",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Md. Mehedi",
+                        "family": "Hasan",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Ahsan Rajib",
+                        "family": "Promie",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Md. Nazrul",
+                        "family": "Islam",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Sumaya Haq",
+                        "family": "Mim",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Kallol",
+                        "family": "Sarker",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Md. Moshiur",
+                        "family": "Rahman",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Md. Rezaul",
+                        "family": "Karim",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Sheikh Mustafizur",
+                        "family": "Rahman",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Rudi",
+                        "family": "Dungani",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastics</b> in Freshwater Ecosystems",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487555-2",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastic Pollution in the Environment",
+                "doi_url": "https://doi.org/10.1201/9781003487555-2",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Badrudreen Sanni",
+                        "family": "Saulawa",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Olanrewaju Rotimi",
+                        "family": "Bodede",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Stephen Olayiwola",
+                        "family": "Ojo",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Ayotunde Oluyemisi",
+                        "family": "Akanni",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Oyeyemi Temitayo",
+                        "family": "Oyewole",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Jeremaih Bamidele",
+                        "family": "Elusade",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Isaiah Adesola",
+                        "family": "Oke",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b> Pollution in the Environment",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487555-22",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastic Pollution in the Environment",
+                "doi_url": "https://doi.org/10.1201/9781003487555-22",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Justinah Solayide",
+                        "family": "Amoko",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Lasisi",
+                        "family": "Gbadamosi",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Abidemi Iyewumi",
+                        "family": "Demehin",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Isaiah Adesola",
+                        "family": "Oke",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b> Pollution in the Environment",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487555-23",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastic Pollution in the Environment",
+                "doi_url": "https://doi.org/10.1201/9781003487555-23",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Moruf Afolabi",
+                        "family": "Asani",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Ufuoma Phoebe",
+                        "family": "Williams-Bello",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Oluwaseun Kiitan",
+                        "family": "Akinmusere",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Ebeneser Oluwabusola",
+                        "family": "Fakorede",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Oyeyemi Temitayo",
+                        "family": "Oyewole",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Isaiah Adesola",
+                        "family": "Oke",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b> Pollution in the Environment",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487555-25",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Marine Microplastic Pollution",
+                "doi_url": "https://doi.org/10.1201/9781003487555-25",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Minhaz",
+                        "family": "Uddin",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Tapos",
+                        "family": "Kormoker",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Md. Iqram Uddin Al",
+                        "family": "Amran",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Md. Naimur",
+                        "family": "Rahman",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Md. Saif",
+                        "family": "Uddin",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Md. Kamrul",
+                        "family": "Haque",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Marine <b>Microplastic</b> Pollution",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487555-27",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastics in the Mediterranean Sea",
+                "doi_url": "https://doi.org/10.1201/9781003487555-27",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Galafassi",
+                        "family": "Silvia",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Cesarini",
+                        "family": "Giulia",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "De Santis",
+                        "family": "Vanessa",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Luzi",
+                        "family": "Beatrice",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Pozzo Pedro",
+                        "family": "Marcelo",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Quadroni",
+                        "family": "Silvia",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastics</b> in the Mediterranean Sea",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487555-28",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastic Pollution in the Environment",
+                "doi_url": "https://doi.org/10.1201/9781003487555-28",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Oluwaseun Kiitan",
+                        "family": "Akinmusere",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Abidemi Iyewumi",
+                        "family": "Demehin",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Opeyemi K.",
+                        "family": "Olayanju",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Stephen Olayiwola",
+                        "family": "Ojo",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Ayotunde Oluyemisi",
+                        "family": "Akanni",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Isaiah Adesola",
+                        "family": "Oke",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b> Pollution in the Environment",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487579-12",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastics in Agricultural Soil",
+                "doi_url": "https://doi.org/10.1201/9781003487579-12",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Amal I.",
+                        "family": "Hassan",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Hosam M.",
+                        "family": "Saleh",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastics</b> in Agricultural Soil",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487579-16",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastic Pollution in the Environment",
+                "doi_url": "https://doi.org/10.1201/9781003487579-16",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Adeyemi Babayemi",
+                        "family": "Fajobi",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Moruf Afolabi",
+                        "family": "Asani",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Olanrewaju Rotimi",
+                        "family": "Bodede",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Ufuoma Phoebe Williams",
+                        "family": "Bello",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Dele Adedapo",
+                        "family": "Daramola",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Damilola Gbadebo",
+                        "family": "Bobola",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Isaiah Adesola",
+                        "family": "Oke",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b> Pollution in the Environment",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487593-19",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastic Pollution in the Environment",
+                "doi_url": "https://doi.org/10.1201/9781003487593-19",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Ezekiel Oluwaseun",
+                        "family": "Fehintola",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Justinah Solayide",
+                        "family": "Amoko",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Lasisi",
+                        "family": "Gbadamosi",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Enoch Adedayo",
+                        "family": "Adekunbi",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Isaiah Adesola",
+                        "family": "Oke",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-06-27",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b> Pollution in the Environment",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.2174/9789811421587119010005",
+                "year": 2019,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastics and Nanoplastics in Food",
+                "doi_url": "https://doi.org/10.2174/9789811421587119010005",
+                "updated": "2021-01-18T17:37:03.244133",
+                "oa_status": "closed",
+                "publisher": "BENTHAM SCIENCE PUBLISHERS",
+                "z_authors": [
+                    {
+                        "given": "Pilar",
+                        "family": "Fern\u00e1ndez-Hernando",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Rosa M\u00aa",
+                        "family": "Garcinu\u00f1o-Mart\u00ednez",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Esther",
+                        "family": "Garrido-Gamarro",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Advances in the Determination of Xenobiotics in Foods",
+                "oa_locations": [],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": "2705-0815",
+                "journal_issn_l": "2705-0807",
+                "published_date": "2019-09-30",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastics</b> and Nanoplastics in Food",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.23880/phoa-16000194",
+                "year": 2021,
+                "genre": "journal-article",
+                "is_oa": true,
+                "title": "Pollutant of Concern: Microplastics",
+                "doi_url": "https://doi.org/10.23880/phoa-16000194",
+                "updated": "2022-02-22T21:09:47.893114",
+                "oa_status": "gold",
+                "publisher": "Medwin Publishers",
+                "z_authors": [
+                    {
+                        "given": "Soedjajadi",
+                        "family": "Keman",
+                        "sequence": "first"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Public Health Open Access",
+                "oa_locations": [
+                    {
+                        "url": "https://doi.org/10.23880/phoa-16000194",
+                        "pmh_id": null,
+                        "is_best": true,
+                        "license": null,
+                        "oa_date": "2021-01-01",
+                        "updated": "2025-11-05T21:11:24.984165",
+                        "version": "publishedVersion",
+                        "evidence": "oa journal (via observed oa rate)",
+                        "host_type": "publisher",
+                        "endpoint_id": null,
+                        "url_for_pdf": null,
+                        "url_for_landing_page": "https://doi.org/10.23880/phoa-16000194",
+                        "repository_institution": null
+                    }
+                ],
+                "data_standard": 2,
+                "journal_is_oa": true,
+                "journal_issns": "2578-5001",
+                "journal_issn_l": "2578-5001",
+                "published_date": "2021-01-01",
+                "best_oa_location": {
+                    "url": "https://doi.org/10.23880/phoa-16000194",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": null,
+                    "oa_date": "2021-01-01",
+                    "updated": "2025-11-05T21:11:24.984165",
+                    "version": "publishedVersion",
+                    "evidence": "oa journal (via observed oa rate)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.23880/phoa-16000194",
+                    "repository_institution": null
+                },
+                "first_oa_location": {
+                    "url": "https://doi.org/10.23880/phoa-16000194",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": null,
+                    "oa_date": "2021-01-01",
+                    "updated": "2025-11-05T21:11:24.984165",
+                    "version": "publishedVersion",
+                    "evidence": "oa journal (via observed oa rate)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": null,
+                    "url_for_landing_page": "https://doi.org/10.23880/phoa-16000194",
+                    "repository_institution": null
+                },
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Pollutant of Concern: <b>Microplastics</b>",
+            "score": 0.072134756
+        },
+        {
+            "response": {
+                "doi": "10.1016/j.wasman.2025.01.041",
+                "year": 2025,
+                "genre": "journal-article",
+                "is_oa": false,
+                "title": "Discussion on \u201cPotential improvement in the mechanical performance and thermal resistance of geopolymer with appropriate microplastic incorporation: A sustainable solution for recycling and reusing microplastics\u201d",
+                "doi_url": "https://doi.org/10.1016/j.wasman.2025.01.041",
+                "updated": "2025-02-03T14:01:31.176651",
+                "oa_status": "closed",
+                "publisher": "Elsevier BV",
+                "z_authors": [
+                    {
+                        "given": "Mrunal S.",
+                        "family": "Bokade",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Surender",
+                        "family": "Singh",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Devendra Narain",
+                        "family": "Singh",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Waste Management",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": "0956-053X",
+                "journal_issn_l": "0956-053X",
+                "published_date": "2025-03-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "resistance of geopolymer with appropriate <b>microplastic</b> incorporation: A sustainable solution for recycling and reusing <b>microplastics</b>\u201d",
+            "score": 0.070591226
+        },
+        {
+            "response": {
+                "doi": "10.1016/j.envres.2023.116411",
+                "year": 2023,
+                "genre": "journal-article",
+                "is_oa": false,
+                "title": "A preliminary study about the potential risks of the UV-weathered microplastic: The proteome-level changes in the brain in response to polystyrene derived weathered microplastics",
+                "doi_url": "https://doi.org/10.1016/j.envres.2023.116411",
+                "updated": "2023-09-23T08:45:01.482731",
+                "oa_status": "closed",
+                "publisher": "Elsevier BV",
+                "z_authors": [
+                    {
+                        "given": "Hee-Yeon",
+                        "family": "Kim",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Janbolat",
+                        "family": "Ashim",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Song",
+                        "family": "Park",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Wansoo",
+                        "family": "Kim",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Sangho",
+                        "family": "Ji",
+                        "sequence": "additional"
+                    },
+                    {
+                        "ORCID": "https://orcid.org/0000-0002-7678-9242",
+                        "given": "Seoung-Woo",
+                        "family": "Lee",
+                        "sequence": "additional",
+                        "authenticated-orcid": false
+                    },
+                    {
+                        "given": "Yi-Rang",
+                        "family": "Jung",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Sang Won",
+                        "family": "Jeong",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Se-Guen",
+                        "family": "Lee",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Hyun-Chul",
+                        "family": "Kim",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Young-Jae",
+                        "family": "Lee",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Mi Kyung",
+                        "family": "Kwon",
+                        "sequence": "additional"
+                    },
+                    {
+                        "ORCID": "https://orcid.org/0000-0001-6072-851X",
+                        "given": "Jun-Seong",
+                        "family": "Hwang",
+                        "sequence": "additional",
+                        "authenticated-orcid": false
+                    },
+                    {
+                        "given": "Jung Min",
+                        "family": "Shin",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Sung-Jun",
+                        "family": "Lee",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Wookyung",
+                        "family": "Yu",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Jin-Kyu",
+                        "family": "Park",
+                        "sequence": "additional"
+                    },
+                    {
+                        "ORCID": "https://orcid.org/0000-0002-0233-4114",
+                        "given": "Seong-Kyoon",
+                        "family": "Choi",
+                        "sequence": "additional",
+                        "authenticated-orcid": false
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Environmental Research",
+                "oa_locations": [],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": "0013-9351",
+                "journal_issn_l": "0013-9351",
+                "published_date": "2023-09-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>microplastic</b>: The proteome-level changes in the brain in response to polystyrene derived weathered <b>microplastics</b>",
+            "score": 0.067924656
+        },
+        {
+            "response": {
+                "doi": "10.1007/978-3-030-10618-8_36-1",
+                "year": 2020,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastics Characterization by Raman Microscopy",
+                "doi_url": "https://doi.org/10.1007/978-3-030-10618-8_36-1",
+                "updated": "2021-01-19T01:31:57.605813",
+                "oa_status": "closed",
+                "publisher": "Springer International Publishing",
+                "z_authors": [
+                    {
+                        "given": "Barbara E.",
+                        "family": "O\u00dfmann",
+                        "sequence": "first"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastics in the Environment",
+                "oa_locations": [],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2020-01-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastics</b> Characterization by Raman Microscopy",
+            "score": 0.062133495
+        },
+        {
+            "response": {
+                "doi": "10.1007/978-3-031-64253-1_12",
+                "year": 2024,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastic Pollution in the Changing Climate",
+                "doi_url": "https://doi.org/10.1007/978-3-031-64253-1_12",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "Springer Nature Switzerland",
+                "z_authors": [
+                    {
+                        "given": "Victor E.",
+                        "family": "Ojukwu",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "F. C.",
+                        "family": "Akaeme",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Joshua O.",
+                        "family": "Ighalo",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Microplastics in African and Asian Environments",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": "2524-6402,2524-6410",
+                "journal_issn_l": "2524-6402",
+                "published_date": "2024-01-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b> Pollution in the Changing Climate",
+            "score": 0.062133495
+        },
+        {
+            "response": {
+                "doi": "10.1007/978-3-031-76949-8_2",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Potential Environmental Contamination by Microplastics",
+                "doi_url": "https://doi.org/10.1007/978-3-031-76949-8_2",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "Springer Nature Switzerland",
+                "z_authors": [
+                    {
+                        "given": "Anjali",
+                        "family": "Mishra",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Pranjal",
+                        "family": "Tripathi",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Ram Sharan",
+                        "family": "Singh",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Microplastics (MPs) in Wastewater: Determination-Treatment Methods and Effects on Climate Change",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": "1863-5520,1863-5539",
+                "journal_issn_l": "1863-5520",
+                "published_date": "2025-01-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Potential Environmental Contamination by <b>Microplastics</b>",
+            "score": 0.062133495
+        },
+        {
+            "response": {
+                "doi": "10.1007/s10311-022-01539-1",
+                "year": 2022,
+                "genre": "journal-article",
+                "is_oa": true,
+                "title": "Nanoplastics are potentially more dangerous than microplastics",
+                "doi_url": "https://doi.org/10.1007/s10311-022-01539-1",
+                "updated": "2025-01-22T14:41:53.938722",
+                "oa_status": "bronze",
+                "publisher": "Springer Science and Business Media LLC",
+                "z_authors": [
+                    {
+                        "given": "Virender K.",
+                        "family": "Sharma",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Xingmao",
+                        "family": "Ma",
+                        "sequence": "additional"
+                    },
+                    {
+                        "ORCID": "http://orcid.org/0000-0002-8535-8073",
+                        "given": "Eric",
+                        "family": "Lichtfouse",
+                        "sequence": "additional",
+                        "authenticated-orcid": false
+                    },
+                    {
+                        "ORCID": "http://orcid.org/0000-0002-3018-3210",
+                        "given": "Didier",
+                        "family": "Robert",
+                        "sequence": "additional",
+                        "authenticated-orcid": false
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Environmental Chemistry Letters",
+                "oa_locations": [
+                    {
+                        "url": "https://link.springer.com/content/pdf/10.1007/s10311-022-01539-1.pdf",
+                        "pmh_id": null,
+                        "is_best": true,
+                        "license": null,
+                        "oa_date": null,
+                        "updated": "2023-04-08T05:07:43.101976",
+                        "version": "publishedVersion",
+                        "evidence": "open (via free pdf)",
+                        "host_type": "publisher",
+                        "endpoint_id": null,
+                        "url_for_pdf": "https://link.springer.com/content/pdf/10.1007/s10311-022-01539-1.pdf",
+                        "url_for_landing_page": "https://doi.org/10.1007/s10311-022-01539-1",
+                        "repository_institution": null
+                    },
+                    {
+                        "url": "https://hal.science/hal-03846188/file/SharmaNanoplasticsECL2022revised.pdf",
+                        "pmh_id": "oai:HAL:hal-03846188v1",
+                        "is_best": false,
+                        "license": null,
+                        "oa_date": "2023-02-08",
+                        "updated": "2023-10-02T19:12:55.687090",
+                        "version": "publishedVersion",
+                        "evidence": "oa repository (via OAI-PMH doi match)",
+                        "host_type": "repository",
+                        "endpoint_id": "0ae9d332ec00645bba7",
+                        "url_for_pdf": "https://hal.science/hal-03846188/file/SharmaNanoplasticsECL2022revised.pdf",
+                        "url_for_landing_page": "https://hal.science/hal-03846188/file/SharmaNanoplasticsECL2022revised.pdf",
+                        "repository_institution": "Le Centre pour la Communication Scientifique Directe - HAL - memSIC"
+                    },
+                    {
+                        "url": "https://hal.science/hal-03846188/document",
+                        "pmh_id": "oai:HAL:hal-03846188v1",
+                        "is_best": false,
+                        "license": "other-oa",
+                        "oa_date": "2023-02-08",
+                        "updated": "2024-07-14T16:54:28.361400",
+                        "version": "publishedVersion",
+                        "evidence": "oa repository (via OAI-PMH doi match)",
+                        "host_type": "repository",
+                        "endpoint_id": "b7862ef9ea7817152e1",
+                        "url_for_pdf": "https://hal.science/hal-03846188/document",
+                        "url_for_landing_page": "https://hal.science/hal-03846188/document",
+                        "repository_institution": "Le Centre pour la Communication Scientifique Directe - HAL - Universit\u00e9 Paris Descartes"
+                    }
+                ],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": "1610-3653,1610-3661",
+                "journal_issn_l": "1610-3653",
+                "published_date": "2022-11-09",
+                "best_oa_location": {
+                    "url": "https://link.springer.com/content/pdf/10.1007/s10311-022-01539-1.pdf",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": null,
+                    "oa_date": null,
+                    "updated": "2023-04-08T05:07:43.101976",
+                    "version": "publishedVersion",
+                    "evidence": "open (via free pdf)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": "https://link.springer.com/content/pdf/10.1007/s10311-022-01539-1.pdf",
+                    "url_for_landing_page": "https://doi.org/10.1007/s10311-022-01539-1",
+                    "repository_institution": null
+                },
+                "first_oa_location": {
+                    "url": "https://hal.science/hal-03846188/file/SharmaNanoplasticsECL2022revised.pdf",
+                    "pmh_id": "oai:HAL:hal-03846188v1",
+                    "is_best": false,
+                    "license": null,
+                    "oa_date": "2023-02-08",
+                    "updated": "2023-10-02T19:12:55.687090",
+                    "version": "publishedVersion",
+                    "evidence": "oa repository (via OAI-PMH doi match)",
+                    "host_type": "repository",
+                    "endpoint_id": "0ae9d332ec00645bba7",
+                    "url_for_pdf": "https://hal.science/hal-03846188/file/SharmaNanoplasticsECL2022revised.pdf",
+                    "url_for_landing_page": "https://hal.science/hal-03846188/file/SharmaNanoplasticsECL2022revised.pdf",
+                    "repository_institution": "Le Centre pour la Communication Scientifique Directe - HAL - memSIC"
+                },
+                "journal_is_in_doaj": false,
+                "has_repository_copy": true,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Nanoplastics are potentially more dangerous than <b>microplastics</b>",
+            "score": 0.062133495
+        },
+        {
+            "response": {
+                "doi": "10.1021/cen-09520-notw4",
+                "year": 2017,
+                "genre": "journal-article",
+                "is_oa": true,
+                "title": "Paper on microplastics in fish is retracted",
+                "doi_url": "https://doi.org/10.1021/cen-09520-notw4",
+                "updated": "2024-06-07T20:18:25.763883",
+                "oa_status": "hybrid",
+                "publisher": "American Chemical Society (ACS)",
+                "z_authors": [
+                    {
+                        "family": "Stu Borman",
+                        "sequence": "first"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "C&amp;EN Global Enterprise",
+                "oa_locations": [
+                    {
+                        "url": "https://pubs.acs.org/doi/pdf/10.1021/cen-09520-notw4",
+                        "pmh_id": null,
+                        "is_best": true,
+                        "license": "other-oa",
+                        "oa_date": "2017-05-15",
+                        "updated": "2024-06-07T20:18:23.065505",
+                        "version": "publishedVersion",
+                        "evidence": "open (via free pdf)",
+                        "host_type": "publisher",
+                        "endpoint_id": null,
+                        "url_for_pdf": "https://pubs.acs.org/doi/pdf/10.1021/cen-09520-notw4",
+                        "url_for_landing_page": "https://doi.org/10.1021/cen-09520-notw4",
+                        "repository_institution": null
+                    }
+                ],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": "2474-7408",
+                "journal_issn_l": "2474-7408",
+                "published_date": "2017-05-15",
+                "best_oa_location": {
+                    "url": "https://pubs.acs.org/doi/pdf/10.1021/cen-09520-notw4",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": "other-oa",
+                    "oa_date": "2017-05-15",
+                    "updated": "2024-06-07T20:18:23.065505",
+                    "version": "publishedVersion",
+                    "evidence": "open (via free pdf)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": "https://pubs.acs.org/doi/pdf/10.1021/cen-09520-notw4",
+                    "url_for_landing_page": "https://doi.org/10.1021/cen-09520-notw4",
+                    "repository_institution": null
+                },
+                "first_oa_location": {
+                    "url": "https://pubs.acs.org/doi/pdf/10.1021/cen-09520-notw4",
+                    "pmh_id": null,
+                    "is_best": true,
+                    "license": "other-oa",
+                    "oa_date": "2017-05-15",
+                    "updated": "2024-06-07T20:18:23.065505",
+                    "version": "publishedVersion",
+                    "evidence": "open (via free pdf)",
+                    "host_type": "publisher",
+                    "endpoint_id": null,
+                    "url_for_pdf": "https://pubs.acs.org/doi/pdf/10.1021/cen-09520-notw4",
+                    "url_for_landing_page": "https://doi.org/10.1021/cen-09520-notw4",
+                    "repository_institution": null
+                },
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Paper on <b>microplastics</b> in fish is retracted",
+            "score": 0.062133495
+        },
+        {
+            "response": {
+                "doi": "10.1142/9789811259111_0006",
+                "year": 2023,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastics in the Marine Environment \u2014 An Introduction",
+                "doi_url": "https://doi.org/10.1142/9789811259111_0006",
+                "updated": "2023-01-27T06:31:00.094350",
+                "oa_status": "closed",
+                "publisher": "WORLD SCIENTIFIC",
+                "z_authors": [
+                    {
+                        "given": "Thijs",
+                        "family": "Bosker",
+                        "sequence": "first",
+                        "affiliation": [
+                            {
+                                "name": "Leiden University College, Leiden University, P.O. Box 13228, 2501 EE The Hague, Netherlands"
+                            },
+                            {
+                                "name": "Institute of Environmental Sciences, University of Leiden, P.O. Box 9518, 2300 RA Leiden, The Netherlands"
+                            }
+                        ]
+                    },
+                    {
+                        "given": "Laura J.",
+                        "family": "Zantis",
+                        "sequence": "additional",
+                        "affiliation": [
+                            {
+                                "name": "Institute of Environmental Sciences, University of Leiden, P.O. Box 9518, 2300 RA Leiden, The Netherlands"
+                            }
+                        ]
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Plastic Pollution in the Global Ocean",
+                "oa_locations": [],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2023-01-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastics</b> in the Marine Environment \u2014 An Introduction",
+            "score": 0.062133495
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487555-17",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Adsorption of Pollutants on Microplastics in Freshwater",
+                "doi_url": "https://doi.org/10.1201/9781003487555-17",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Giulia",
+                        "family": "Caioni",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Carmine",
+                        "family": "Merola",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Adsorption of Pollutants on <b>Microplastics</b> in Freshwater",
+            "score": 0.062133495
+        },
+        {
+            "response": {
+                "doi": "10.1201/9781003487555-24",
+                "year": 2025,
+                "genre": "book-chapter",
+                "is_oa": false,
+                "title": "Microplastic Pollution in the Marine Environment",
+                "doi_url": "https://doi.org/10.1201/9781003487555-24",
+                "updated": "1042-01-01T00:00:00",
+                "oa_status": "closed",
+                "publisher": "CRC Press",
+                "z_authors": [
+                    {
+                        "given": "Sonali",
+                        "family": "Yadav",
+                        "sequence": "first"
+                    },
+                    {
+                        "given": "Sabyasachi",
+                        "family": "Rout",
+                        "sequence": "additional"
+                    },
+                    {
+                        "given": "Vandana",
+                        "family": "Pulhani",
+                        "sequence": "additional"
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Handbook of Microplastic Pollution in the Environment",
+                "oa_locations": [],
+                "data_standard": 1,
+                "journal_is_oa": false,
+                "journal_issns": null,
+                "journal_issn_l": null,
+                "published_date": "2025-05-09",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "<b>Microplastic</b> Pollution in the Marine Environment",
+            "score": 0.062133495
+        },
+        {
+            "response": {
+                "doi": "10.4028/www.scientific.net/msf.1030.169",
+                "year": 2021,
+                "genre": "journal-article",
+                "is_oa": false,
+                "title": "Detection of Microplastics in Bottled Water",
+                "doi_url": "https://doi.org/10.4028/www.scientific.net/msf.1030.169",
+                "updated": "2021-05-13T21:07:25.020069",
+                "oa_status": "closed",
+                "publisher": "Trans Tech Publications, Ltd.",
+                "z_authors": [
+                    {
+                        "given": "N.H.",
+                        "family": "Wong",
+                        "sequence": "first",
+                        "affiliation": [
+                            {
+                                "name": "Swinburne University of Technology Sarawak Campus"
+                            }
+                        ]
+                    },
+                    {
+                        "given": "C.S.",
+                        "family": "Chai",
+                        "sequence": "additional",
+                        "affiliation": [
+                            {
+                                "name": "Swinburne University of Technology Sarawak Campus"
+                            }
+                        ]
+                    },
+                    {
+                        "given": "J.A.",
+                        "family": "Bamgbade",
+                        "sequence": "additional",
+                        "affiliation": [
+                            {
+                                "name": "Swinburne University of Technology Sarawak Campus"
+                            }
+                        ]
+                    },
+                    {
+                        "given": "G.F.",
+                        "family": "Ma",
+                        "sequence": "additional",
+                        "affiliation": [
+                            {
+                                "name": "Guangxi Electrical Polytechnic Institute"
+                            }
+                        ]
+                    },
+                    {
+                        "given": "G.W.",
+                        "family": "Hii",
+                        "sequence": "additional",
+                        "affiliation": [
+                            {
+                                "name": "Swinburne University of Technology Sarawak Campus"
+                            }
+                        ]
+                    }
+                ],
+                "is_paratext": false,
+                "journal_name": "Materials Science Forum",
+                "oa_locations": [],
+                "data_standard": 2,
+                "journal_is_oa": false,
+                "journal_issns": "1662-9752",
+                "journal_issn_l": "0255-5476",
+                "published_date": "2021-05-01",
+                "best_oa_location": null,
+                "first_oa_location": null,
+                "journal_is_in_doaj": false,
+                "has_repository_copy": false,
+                "oa_locations_embargoed": []
+            },
+            "snippet": "Detection of <b>Microplastics</b> in Bottled Water",
+            "score": 0.062133495
+        }
+    ],
+    "elapsed_seconds": 0.247
+}

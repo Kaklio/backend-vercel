@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@cedrugs/pdf-parse": "^1.0.0",
     "@huggingface/inference": "^4.13.0",
     "@sparticuz/chromium-min": "^141.0.0",
     "cheerio": "^1.1.2",
