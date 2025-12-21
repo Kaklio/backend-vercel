@@ -1,76 +1,354 @@
 {
-  "query": "microplastics",
-  "number_of_results": 0,
-  "results": [
-    {
-      "title": "A global perspective on microplastics",
-      "content": "Society has become increasingly reliant on plastics since commercial production began in about 1950. Their versatility, stability, light weight, and low production costs have fueled …",
-      "url": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JC014719",
-      "pdf_url": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018JC014719",
-      "html_url": ""
-    },
-    {
-      "title": "Microplastics in the marine environment",
-      "content": "This review discusses the mechanisms of generation and potential impacts of microplastics in the ocean environment. Weathering degradation of plastics on the beaches results in their …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0025326X11003055",
-      "pdf_url": "https://www.academia.edu/download/32953376/Marine_Pollution_Bulletin_2011_Andrady.pdf",
-      "html_url": ""
-    },
-    {
-      "title": "The plastic in microplastics: A review",
-      "content": "… Microplastics [MPs], now a ubiquitous pollutant in … microplastics, to their role as a pollutant with potentially serious ecological impacts. Fragmentation leading to secondary microplastics …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0025326X1730111X",
-      "pdf_url": "",
-      "html_url": ""
-    },
-    {
-      "title": "Human consumption of microplastics",
-      "content": "… microplastic content. The potential consumption of MPs through inhalation was evaluated using reported microplastic … bottled water may impact microplastic consumption relative to the …",
-      "url": "https://pubs.acs.org/doi/abs/10.1021/acs.est.9b01517",
-      "pdf_url": "https://www.academia.edu/download/59765553/Human_Consumption_of_Microplastics20190617-105013-16yw43q.pdf",
-      "html_url": ""
-    },
-    {
-      "title": "Microplastics and human health",
-      "content": "The ubiquity of microplastics (plastic particles <5 mm, including nanosized plastics <1 µm) in the global biosphere raises increasing concerns about their implications for human health (…",
-      "url": "https://www.science.org/doi/abs/10.1126/science.abe5041",
-      "pdf_url": "https://research.vu.nl/files/227179799/Microplastics_and_human_health.pdf",
-      "html_url": ""
-    },
-    {
-      "title": "Microplastics in the seas",
-      "content": "… on microplastic particles too small to be easily detected by eye (see the figure). Microplastics … because large, single plastic items ultimately degrade into millions of microplastic pieces. …",
-      "url": "https://www.science.org/doi/abs/10.1126/science.1254065",
-      "pdf_url": "https://www.researchgate.net/profile/Kara-Law/publication/263862112_Oceans_Microplastics_in_the_seas/links/53d8fa150cf2a19eee839fe1/Oceans-Microplastics-in-the-seas.pdf",
-      "html_url": ""
-    },
-    {
-      "title": "Microplastics in the environment: Challenges in analytical chemistry-A review",
-      "content": "… the environment as manufactured microplastics (known as primary microplastics) or … microplastics). Herein, we discuss the numerous issues associated with the analysis of microplastics…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0003267018302587",
-      "pdf_url": "https://www.researchgate.net/profile/Gabriel-De-La-Torre-2/post/How-to-identify-Microplastic-polymers-extracted-from-biota-samples/attachment/5e171edbcfe4a777d40276d7/AS%3A845412814557187%401578573530855/download/MPs+Challenges+analytical+Chem.pdf",
-      "html_url": ""
-    },
-    {
-      "title": "Microplastics in freshwater systems: A review on occurrence, environmental effects, and methods for microplastics detection",
-      "content": "… of microplastics to freshwater systems are many with the largest portion from wastewater treatment plants. The abundance of microplastics … Microplastics can cause several harmful …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0043135417310515",
-      "pdf_url": "https://www.researchgate.net/profile/C-Andersen/post/How_to_do_microplastic_analysis_in_fresh_water/attachment/60a281165e24cd00015d72a8/AS%3A1024463810342913%401621262614169/download/Li+et+al.+2018+Microplastics+in+freshwater+systems.pdf",
-      "html_url": ""
-    },
-    {
-      "title": "Removal of microplastics from the environment. A review",
-      "content": "… microplastics from water and other media are actually needed. Here, we review microplastics … Microplastics are categorized as primary microplastics, which are raw materials used in …",
-      "url": "https://link.springer.com/article/10.1007/S10311-020-00983-1",
-      "pdf_url": "https://hal.science/hal-02562545v1/file/093-Padervand2020_ECLRevised.pdf",
-      "html_url": ""
-    },
-    {
-      "title": "Microplastics research—from sink to source",
-      "content": "… microplastics in seafood, yet microplastics in dust, groundwater, and agricultural soils may also be of great importance. As such, microplastic … , and effects of microplastic pollution at all …",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aar7734",
-      "pdf_url": "https://waterguardianexperts.thewaternetwork.com/storage/TFX%5CDocumentBundle%5CEntity%5CDocument-GcYotvrfjs-4KO0iKt5EmA/aLs4p-6kP-DYBqA1GLGQeQ/file/Microplastics%20research%E2%80%94from%20sink%20to%20source.pdf",
-      "html_url": ""
-    }
-  ]
+    "results": [
+        {
+            "year": 2005,
+            "title": "Whisker",
+            "journal_name": "Van Nostrand's Scientific Encyclopedia",
+            "doi_url": "https://doi.org/10.1002/0471743984.vse7518",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1957,
+            "title": "Whisker-on-whisker growth",
+            "journal_name": "Acta Metallurgica",
+            "doi_url": "https://doi.org/10.1016/0001-6160(57)90046-9",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2025,
+            "title": "On the growth behavior of multiple whiskers generated on Sn/Cu plating −Predicting the growth behavior of the longest whiskers using whisker length distributions",
+            "journal_name": "Journal of Materials Research and Technology",
+            "doi_url": "https://doi.org/10.1016/j.jmrt.2025.05.033",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2003,
+            "title": "Whisker motor cortex ablation and whisker movement patterns",
+            "journal_name": "Somatosensory &amp; Motor Research",
+            "doi_url": "https://doi.org/10.1080/08990220310001622924",
+            "url_for_pdf": null
+        },
+        {
+            "year": null,
+            "title": "sandy whisker",
+            "journal_name": "Dictionary of Gems and Gemology",
+            "doi_url": "https://doi.org/10.1007/978-3-540-72816-0_19077",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1971,
+            "title": "Whisker technology",
+            "journal_name": "Composites",
+            "doi_url": "https://doi.org/10.1016/0010-4361(71)90963-3",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2014,
+            "title": "Growing Whiskers",
+            "journal_name": "Physics",
+            "doi_url": "https://doi.org/10.1103/physics.7.s59",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1957,
+            "title": "Dislocations in Whiskers",
+            "journal_name": "Physical Review",
+            "doi_url": "https://doi.org/10.1103/physrev.108.498",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2014,
+            "title": "graphite whiskers",
+            "journal_name": "The IUPAC Compendium of Chemical Terminology",
+            "doi_url": "https://doi.org/10.1351/goldbook.g02688",
+            "url_for_pdf": "https://goldbook.iupac.org/files/pdf/goldbook.pdf"
+        },
+        {
+            "year": 1962,
+            "title": "On Selenium Whiskers",
+            "journal_name": "Journal of the Japan Institute of Metals and Materials",
+            "doi_url": "https://doi.org/10.2320/jinstmet1952.26.7_452",
+            "url_for_pdf": "https://www.jstage.jst.go.jp/article/jinstmet1952/26/7/26_7_452/_pdf"
+        },
+        {
+            "year": 1962,
+            "title": "The properties of whiskers",
+            "journal_name": "Uspekhi Fizicheskih Nauk",
+            "doi_url": "https://doi.org/10.3367/ufnr.0077.196206a.0201",
+            "url_for_pdf": "https://ufn.ru/ufn62/ufn62_6/Russian/r626a.pdf"
+        },
+        {
+            "year": 1995,
+            "title": "The Use of Phase Studies in the Development of Whiskers and Whisker-Reinforced Ceramics",
+            "journal_name": "Phase Diagrams in Advanced Ceramics",
+            "doi_url": "https://doi.org/10.1016/b978-012341834-0/50006-4",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2025,
+            "title": "A novel ternary nitride whisker: MgSiN<sub>2</sub> whisker and its growth mechanism",
+            "journal_name": "Journal of the American Ceramic Society",
+            "doi_url": "https://doi.org/10.1111/jace.20480",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2021,
+            "title": "Correction: A system for tracking whisker kinematics and whisker shape in three dimensions",
+            "journal_name": "PLOS Computational Biology",
+            "doi_url": "https://doi.org/10.1371/journal.pcbi.1008723",
+            "url_for_pdf": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1008723&type=printable"
+        },
+        {
+            "year": 2012,
+            "title": "Morphology of SiC Whisker in Whisker Reinforced Reaction Bonded SiC Composite",
+            "journal_name": "Advanced Materials Research",
+            "doi_url": "https://doi.org/10.4028/www.scientific.net/amr.457-458.422",
+            "url_for_pdf": null
+        },
+        {
+            "year": null,
+            "title": "Mullite-SiC Whisker and Mullite-ZrO2-SiC Whisker Composites",
+            "journal_name": "Handbook of Ceramic Composites",
+            "doi_url": "https://doi.org/10.1007/0-387-23986-3_14",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1993,
+            "title": "Ceramic composites reinforced with modified silicon carbide whiskers and method for modifying the whiskers",
+            "journal_name": "Composites",
+            "doi_url": "https://doi.org/10.1016/0010-4361(93)90099-t",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2020,
+            "title": "Whisker growth under a controlled driving force: Pressure induced whisker nucleation and growth",
+            "journal_name": "Scripta Materialia",
+            "doi_url": "https://doi.org/10.1016/j.scriptamat.2020.02.036",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1993,
+            "title": "Whiskers. 3. Whiskers of poly(ester imides) derived from 4-hydroxyphthalic acid",
+            "journal_name": "Macromolecules",
+            "doi_url": "https://doi.org/10.1021/ma00076a048",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2021,
+            "title": "Early mechanisms of whisker development: Prdm1 and its regulation in whisker development and evolutionary loss",
+            "journal_name": null,
+            "doi_url": "https://doi.org/10.1101/2021.03.11.433122",
+            "url_for_pdf": "https://air.unimi.it/bitstream/2434/937536/4/2021.03.11.433122v1.full.pdf"
+        },
+        {
+            "year": 2003,
+            "title": "HIGH DENSITY DIAMOND WHISKER FABRICATION AND SUPPRESSION OF SECONDARY ELECTRON EMISSION BY WHISKERS",
+            "journal_name": "AsiaNano 2002",
+            "doi_url": "https://doi.org/10.1142/9789812796714_0010",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1988,
+            "title": "Temperature Dependence of Strengthening by Whisker Reinforcement: SiC Whisker-Reinforced Alumina in Air",
+            "journal_name": "Advanced Ceramic Materials",
+            "doi_url": "https://doi.org/10.1111/j.1551-2916.1988.tb00189.x",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1986,
+            "title": "Silicon carbide whisker composite material with low non whisker particle content and method of manufacture thereof",
+            "journal_name": "Composites",
+            "doi_url": "https://doi.org/10.1016/0010-4361(86)90431-3",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2016,
+            "title": "Design and tensile properties of aluminum borate whiskers reinforced aluminum composite with low whisker volume fraction",
+            "journal_name": "Composite Interfaces",
+            "doi_url": "https://doi.org/10.1080/09276440.2016.1213498",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2015,
+            "title": "Present concepts of non-traditional methods of growing of metal whisker crystals. Pulling of whiskers from solution",
+            "journal_name": "Technology audit and production reserves",
+            "doi_url": "https://doi.org/10.15587/2312-8372.2015.42409",
+            "url_for_pdf": "https://journals.uran.ua/tarp/article/download/42409/40304"
+        },
+        {
+            "year": 2022,
+            "title": "Comparative Study on Pavement Performance of Asphalt Mixtures Modified by Calcium Sulfate Whisker and Calcium Carbonate Whisker",
+            "journal_name": "Coatings",
+            "doi_url": "https://doi.org/10.3390/coatings12101513",
+            "url_for_pdf": "https://www.mdpi.com/2079-6412/12/10/1513/pdf?version=1665391272"
+        },
+        {
+            "year": 2023,
+            "title": "Wavy Whiskers in Wakes: Explaining the Trail‐Tracking Capabilities of Whisker Arrays on Seal Muzzles (Adv. Sci. 2/2023)",
+            "journal_name": "Advanced Science",
+            "doi_url": "https://doi.org/10.1002/advs.202370007",
+            "url_for_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202370007"
+        },
+        {
+            "year": 2004,
+            "title": "Preparation and performance of aluminum borate whisker–reinforced epoxy composites. I. Effect of whiskers on processing, reactivity, and mechanical properties",
+            "journal_name": "Journal of Applied Polymer Science",
+            "doi_url": "https://doi.org/10.1002/app.20199",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2015,
+            "title": "Current concepts of non-traditional methods of cultivation metal whisker crystals. Pulling whisker pole from melt",
+            "journal_name": "Technology audit and production reserves",
+            "doi_url": "https://doi.org/10.15587/2312-8372.2015.40499",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1989,
+            "title": "Morphology of TiN whiskers",
+            "journal_name": "Crystal Research and Technology",
+            "doi_url": "https://doi.org/10.1002/crat.2170241102",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1956,
+            "title": "Elasticity of zinc whiskers",
+            "journal_name": "Acta Metallurgica",
+            "doi_url": "https://doi.org/10.1016/0001-6160(56)90144-4",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1973,
+            "title": "Silicon nitride whiskers",
+            "journal_name": "Composites",
+            "doi_url": "https://doi.org/10.1016/0010-4361(73)90351-0",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1977,
+            "title": "noise in copper whiskers",
+            "journal_name": "Solid State Communications",
+            "doi_url": "https://doi.org/10.1016/0038-1098(77)90844-4",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2011,
+            "title": "Removal of strontium(II) ions by potassium tetratitanate whisker and sodium trititanate whisker from aqueous solution: Equilibrium, kinetics and thermodynamics",
+            "journal_name": "Chemical Engineering Journal",
+            "doi_url": "https://doi.org/10.1016/j.cej.2010.12.025",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2007,
+            "title": "Nanostructured Ba6Mn24O48 whiskers",
+            "journal_name": "Mendeleev Communications",
+            "doi_url": "https://doi.org/10.1016/j.mencom.2007.01.006",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2011,
+            "title": "Whisker prevent technology",
+            "journal_name": "Metal Finishing",
+            "doi_url": "https://doi.org/10.1016/s0026-0576(11)80043-7",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1961,
+            "title": "Sodium Chloride Whiskers",
+            "journal_name": "Nature",
+            "doi_url": "https://doi.org/10.1038/190079a0",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1964,
+            "title": "Formation of Silicon Whiskers",
+            "journal_name": "Journal of Applied Physics",
+            "doi_url": "https://doi.org/10.1063/1.1713079",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1964,
+            "title": "Spiral Copper Whiskers",
+            "journal_name": "Journal of Applied Physics",
+            "doi_url": "https://doi.org/10.1063/1.1713328",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1961,
+            "title": "Twist in Alumina Whiskers",
+            "journal_name": "The Journal of Chemical Physics",
+            "doi_url": "https://doi.org/10.1063/1.1731835",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1997,
+            "title": "Tuning In to Rat Whiskers",
+            "journal_name": "Science",
+            "doi_url": "https://doi.org/10.1126/science.278.5339.809d",
+            "url_for_pdf": null
+        },
+        {
+            "year": 1986,
+            "title": "Studies on whisker growth on the tablet surface. III. Mechanism of whisker growth on aspirin tablet and its effect on the mechanical strength of the tablet.",
+            "journal_name": "Chemical and Pharmaceutical Bulletin",
+            "doi_url": "https://doi.org/10.1248/cpb.34.850",
+            "url_for_pdf": "https://www.jstage.jst.go.jp/article/cpb1958/34/2/34_2_850/_pdf"
+        },
+        {
+            "year": 2013,
+            "title": "Mechanical properties of whiskers",
+            "journal_name": "Technology audit and production reserves",
+            "doi_url": "https://doi.org/10.15587/2312-8372.2013.18393",
+            "url_for_pdf": "https://journals.uran.ua/tarp/article/download/18393/16142"
+        },
+        {
+            "year": 2020,
+            "title": "The Rat's Euler Whiskers",
+            "journal_name": "TheScienceBreaker",
+            "doi_url": "https://doi.org/10.25250/thescbr.brk364",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2008,
+            "title": "I Don’t Give a Cat’s Whiskers",
+            "journal_name": "Throbbing Gristle's Twenty Jazz Funk Greats",
+            "doi_url": "https://doi.org/10.5040/9781501397592.0004",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2025,
+            "title": "How mice ‘listen’ with their whiskers",
+            "journal_name": null,
+            "doi_url": "https://doi.org/10.64628/ab.6rpjnmr93",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2018,
+            "title": "Influence of whisker-aspect-ratio on densification, microstructure and mechanical properties of Al2O3 whiskers-reinforced CeO2-stabilized ZrO2 composites",
+            "journal_name": "Journal of the European Ceramic Society",
+            "doi_url": "https://doi.org/10.1016/j.jeurceramsoc.2017.11.037",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2009,
+            "title": "OS0613 Effect of whisker orientation on fatigue fracture mechanism of aluminum cast alloy locally reinforced by SiC particles and AL_2O_3 whiskers",
+            "journal_name": "The Proceedings of the Materials and Mechanics Conference",
+            "doi_url": "https://doi.org/10.1299/jsmemm.2009.224",
+            "url_for_pdf": "https://www.jstage.jst.go.jp/article/jsmemm/2009/0/2009_224/_pdf"
+        },
+        {
+            "year": 2001,
+            "title": "Developmental Changes in Trial-to-Trial Variations in Whisker Barrel Responses Studied Using Intrinsic Optical Imaging: Comparison Between Normal and De-Whiskered Rats",
+            "journal_name": "Journal of Neurophysiology",
+            "doi_url": "https://doi.org/10.1152/jn.2001.86.1.392",
+            "url_for_pdf": null
+        },
+        {
+            "year": 2022,
+            "title": "A novel stimulator to investigate the tuning of multi-whisker responsive neurons for speed and the direction of global motion: Contact-sensitive moving stimulator for multi-whisker stimulation",
+            "journal_name": "Journal of Neuroscience Methods",
+            "doi_url": "https://doi.org/10.1016/j.jneumeth.2022.109565",
+            "url_for_pdf": "https://www.sciencedirect.com/science/article/am/pii/S0165027022000929"
+        }
+    ]
 }
