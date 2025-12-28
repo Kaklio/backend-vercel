@@ -20,8 +20,6 @@ export async function OPTIONS(request: Request) {
   return new NextResponse(null, { status: 204, headers });
 }
 
-
-
 // Helper to extract main readable text
 function extractMainContent(html: string) {
   const $ = cheerio.load(html);

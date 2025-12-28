@@ -7,9 +7,6 @@ import puppeteer from "puppeteer-extra";
 import pdf from "@cedrugs/pdf-parse";
 
 
-let forbidden_Code: any;
-let pdf_url: any;
-let content_Type: any;
 
 
 puppeteer.use(StealthPlugin());
@@ -17,10 +14,12 @@ puppeteer.use(StealthPlugin());
 export const runtime = "nodejs";
 
 const DEFAULT_USER_AGENT =
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
+"Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
 
 export async function POST(req: Request) {
+    let pdf_url: any;
+    let content_Type: any;
 
     console.log("extractPdf_Simple CALLED")
 
@@ -146,44 +145,60 @@ export async function POST(req: Request) {
                 { status: 422 }
             );
         }
-
+        
+        console.log("PDF extract SUCCESS on Simple ROUTE");
         return new NextResponse(result.text.trim(), {
             headers: { "Content-Type": "text/plain; charset=utf-8" },
         });
     } catch (err: any) {
         console.error("PDF extract error:", err);
-        console.log("contentType", content_Type)
 
+    // FIX: Check for 403 OR if the "Simple" fetch got blocked/served HTML
+    const isForbidden = err.toString().includes("403");
+    const isNotPdf = err.toString().includes("URL did not return a PDF");
 
-        if (err.toString().includes("403")) {
-            forbidden_Code = 403;
-            console.log("Enter 403 SECTION");
-            console.log("Call Docker Endpoint to BYPASS Anti-BOT")
+    if (isForbidden || isNotPdf) {
+        console.log(`Enter ${isForbidden ? '403' : 'Non-PDF'} SECTION`);
+        console.log("Call Docker Endpoint to BYPASS Anti-BOT");
 
-            try {
-                const res = await fetch(`${process.env.NEXTAUTH_URL || 'http://localhost:3000'}/api/extractPdf_docker`, {
-                    method: "POST",
-                    headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify({ url: pdf_url }),
+        try {
+            // Make sure to use the Docker service name if running in docker-compose, 
+            // e.g., 'http://pdf-scraper:3000/scrape'
+            const dockerUrl = process.env.DOCKER_SCRAPER_URL || 'http://localhost:3005/scrape'; 
+            
+            const res = await fetch(dockerUrl, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ url: pdf_url }),
+            });
 
-                });
-
-                const data = await res.text();
-                return new NextResponse(data, {
-                    headers: { "Content-Type": "text/plain; charset=utf-8" },
-                });
-
-            } catch (error: any) {
-                return NextResponse.json(
-                    { error: error.message || String(error) },
-                    { status: error.status || 500 }
-                );
+            if (!res.ok) {
+                 throw new Error(`Docker scraper failed: ${res.status}`);
             }
+
+            // The Docker service returns the raw PDF buffer, NOT text
+            const pdfBuffer = Buffer.from(await res.arrayBuffer());
+
+            // We must parse the PDF here in Next.js
+            const result = await pdf(pdfBuffer);
+
+            return new NextResponse(result.text.trim(), {
+                headers: { "Content-Type": "text/plain; charset=utf-8" },
+            });
+
+        } catch (error: any) {
+            console.error("Docker Fallback Failed:", error);
+            return NextResponse.json(
+                { error: error.message || String(error) },
+                { status: 500 }
+            );
         }
-        return NextResponse.json(
-            { error: err.message || String(err) },
-            { status: forbidden_Code || 500 }
-        );
+    }
+
+    return NextResponse.json(
+        { error: err.message || String(err) },
+        { status: 500 }
+    );
     } finally {
         if (browser) {
             try {

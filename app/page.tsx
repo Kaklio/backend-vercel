@@ -19,7 +19,7 @@ export default function Home() {
     //   method: "GET",
     // });
    
-     const res = await fetch(`/api/extractPdf_docker`, {
+     const res = await fetch(`/api/extractPdf`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ url }),
