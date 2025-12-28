@@ -6,9 +6,6 @@ import StealthPlugin from "puppeteer-extra-plugin-stealth";
 import puppeteer from "puppeteer-extra";
 import pdf from "@cedrugs/pdf-parse";
 
-
-
-
 puppeteer.use(StealthPlugin());
 
 export const runtime = "nodejs";
