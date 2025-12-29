@@ -31,14 +31,23 @@ export async function GET(request: NextRequest) {
 
     const data = await response.json();
 
-    // Filter results to only include specified fields
-    const filteredResults = (data.results ?? []).map((result: any) => ({
-      title: result.title || "",
-      content: result.content || "",
-      url: result.url || "",
-      pdf_url: result.pdf_url || "",
-      html_url: result.html_url || "",
-    }));
+    // // Filter results to only include specified fields
+    // const filteredResults = (data.results ?? []).map((result: any) => ({
+    //   title: result.title || "",
+    //   url: result.url || "",
+    //   pdf_url: result.pdf_url || "",
+    //   html_url: result.html_url || "",
+    // }));
+
+const filteredResults = (data.results ?? []).map((result: any) => {
+  const filtered: any = {};
+  
+  if (result.title) filtered.title = result.title;
+  if (result.url) filtered.url = result.url;
+  if (result.pdf_url) filtered.pdf_url = result.pdf_url;
+  
+  return filtered;
+});
 
     // Match original output structure
     const filteredData = {
