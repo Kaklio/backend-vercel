@@ -4,7 +4,7 @@ import pdf from "@cedrugs/pdf-parse";
 
 // Point this to your local Docker container
 // If running Next.js in Docker too, use "http://pdf-scraper:3000"
-const SCRAPER_URL = "http://localhost:3005/scrape"; 
+const SCRAPER_URL = process.env.DOCKER_SCRAPER_URL || 'http://localhost:3005/scrape'; 
 
 export async function POST(req: Request) {
 
