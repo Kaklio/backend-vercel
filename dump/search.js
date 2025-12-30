@@ -4,7 +4,7 @@ let query = 'microplastics !gos';
 
 async function fetchData() {
   try {
-    const response = await fetch(`https://searxng-production-eef8.up.railway.app/?q=${query}&format=json`);
+    const response = await fetch(`http://localhost:3000/?q=${query}`);
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }

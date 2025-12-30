@@ -38,13 +38,14 @@ export async function GET(request: NextRequest) {
     //   pdf_url: result.pdf_url || "",
     //   html_url: result.html_url || "",
     // }));
-
-const filteredResults = (data.results ?? []).map((result: any) => {
+    
+const filteredResults = (data.results ?? []).slice(0, 5).map((result: any) => {
   const filtered: any = {};
   
   if (result.title) filtered.title = result.title;
   if (result.url) filtered.url = result.url;
   if (result.pdf_url) filtered.pdf_url = result.pdf_url;
+  if (result.html_url) filtered.html_url = result.html_url;
   
   return filtered;
 });
